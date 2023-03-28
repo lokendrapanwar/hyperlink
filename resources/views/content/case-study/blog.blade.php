@@ -29,7 +29,7 @@
 <div class="col-12 col-md-12 col-lg-6 col-xl-5">
 <div class="blog-content-left">
 <span class="c-blue catg text-capitalize">Game Development</span>
-<h2 class="title mt-4 mb-2"><a href="blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">How To Find and Hire the Best Unity 3D Developers in 2023?</a></h2>
+<h2 class="title mt-4 mb-2"><a href="blog/how-to-find-and-hire-the-best-unity-3d-developers/">How To Find and Hire the Best Unity 3D Developers in 2023?</a></h2>
 <small class="read text-capitalize"><span class="big">03 / 03 / 2023</small>
 <div class="d-flex justify-content-between mt-4"><span class="read text-capitalize d-inline-flex">10 Mins to Read</span> <span class="d-inline-flex">107 Views</span></div>
 </div>
@@ -45,7 +45,7 @@ Unity3D is likely the most well-liked game production software platform, with 4.
 <div class="col-12 col-md-12 col-lg-6 col-xl-5">
 <div class="blog-content-left">
 <span class="c-blue catg text-capitalize">App Development</span>
-<h2 class="title mt-4 mb-2"><a href="blog/how-to-create-an-online-laundry-app/default.htm">How To Create An Online Laundry App In 2023</a></h2>
+<h2 class="title mt-4 mb-2"><a href="blog/how-to-create-an-online-laundry-app/">How To Create An Online Laundry App In 2023</a></h2>
 <small class="read text-capitalize"><span class="big">28 / 02 / 2023</small>
 <div class="d-flex justify-content-between mt-4"><span class="read text-capitalize d-inline-flex">10 Mins to Read</span> <span class="d-inline-flex">193 Views</span></div>
 </div>
@@ -61,7 +61,7 @@ Today, On-demand app development is causing a swirl in the commercial world. The
 <div class="col-12 col-md-12 col-lg-6 col-xl-5">
 <div class="blog-content-left">
 <span class="c-blue catg text-capitalize">Game Development</span>
-<h2 class="title mt-4 mb-2"><a href="blog/mobile-game-development-ideas/default.htm">Top Mobile Game Development Ideas In 2023: Complete Guide</a></h2>
+<h2 class="title mt-4 mb-2"><a href="blog/mobile-game-development-ideas/">Top Mobile Game Development Ideas In 2023: Complete Guide</a></h2>
 <small class="read text-capitalize"><span class="big">22 / 02 / 2023</small>
 <div class="d-flex justify-content-between mt-4"><span class="read text-capitalize d-inline-flex">15 Mins to Read</span> <span class="d-inline-flex">239 Views</span></div>
 </div>
@@ -77,7 +77,7 @@ The last several decades have seen a rise in the popularity of mobile gaming. Mo
 <div class="col-12 col-md-12 col-lg-6 col-xl-5">
 <div class="blog-content-left">
 <span class="c-blue catg text-capitalize">Web Development</span>
-<h2 class="title mt-4 mb-2"><a href="blog/why-do-php-developers-adore-laravel-framework/default.htm">Why Do PHP Developers Adore Laravel Framework?</a></h2>
+<h2 class="title mt-4 mb-2"><a href="blog/why-do-php-developers-adore-laravel-framework/">Why Do PHP Developers Adore Laravel Framework?</a></h2>
 <small class="read text-capitalize"><span class="big">20 / 02 / 2023</small>
 <div class="d-flex justify-content-between mt-4"><span class="read text-capitalize d-inline-flex">9 Mins to Read</span> <span class="d-inline-flex">252 Views</span></div>
 </div>
@@ -106,16 +106,16 @@ Laravel provides a wide range of functionalities that include the fundamental co
 <div class="swiper-container latest-blog-slider mx-3 mx-md-3 mx-lg-0">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
-<a href="blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm"><img class="img-fluid" src="/uploads/blog/1677799964.jpg" alt="how to find and hire the best unity 3d developers in 2023" title="How To Find and Hire the Best Unity 3D Developers in 2023"></a>
+<a href="blog/how-to-find-and-hire-the-best-unity-3d-developers/"><img class="img-fluid" src="/uploads/blog/1677799964.jpg" alt="how to find and hire the best unity 3d developers in 2023" title="How To Find and Hire the Best Unity 3D Developers in 2023"></a>
 </div>
 <div class="swiper-slide">
-<a href="blog/how-to-create-an-online-laundry-app/default.htm"><img class="img-fluid" src="/uploads/blog/1677540725.jpg" alt="how to create an online laundry app in 2023" title="How To Create An Online Laundry App In 2023"></a>
+<a href="blog/how-to-create-an-online-laundry-app/"><img class="img-fluid" src="/uploads/blog/1677540725.jpg" alt="how to create an online laundry app in 2023" title="How To Create An Online Laundry App In 2023"></a>
 </div>
 <div class="swiper-slide">
-<a href="blog/mobile-game-development-ideas/default.htm"><img class="img-fluid" src="/uploads/blog/1677116774.jpg" alt="top mobile game development ideas in 2023" title="Top Mobile Game Development Ideas In 2023"></a>
+<a href="blog/mobile-game-development-ideas/"><img class="img-fluid" src="/uploads/blog/1677116774.jpg" alt="top mobile game development ideas in 2023" title="Top Mobile Game Development Ideas In 2023"></a>
 </div>
 <div class="swiper-slide">
-<a href="blog/why-do-php-developers-adore-laravel-framework/default.htm"><img class="img-fluid" src="/uploads/blog/1676846211.jpg" alt="why do php developers adore laravel framework" title="Why Do PHP Developers Adore Laravel Framework"></a>
+<a href="blog/why-do-php-developers-adore-laravel-framework/"><img class="img-fluid" src="/uploads/blog/1676846211.jpg" alt="why do php developers adore laravel framework" title="Why Do PHP Developers Adore Laravel Framework"></a>
 </div>
 </div>
 </div>
@@ -144,29 +144,29 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </div>
 <ul class="list-unstyled mb-0 text-center">
 <li><a href="blog" class="active" data-category_id="All">All</a></li>
-<li><a href="blog/app-development/default.htm" class="" data-category_id="1">App Development</a></li>
-<li><a href="blog/web-development/default.htm" class="" data-category_id="2">Web Development</a></li>
-<li><a href="blog/uiux-design/default.htm" class="" data-category_id="3">UI/UX Design</a></li>
-<li><a href="blog/web-design/default.htm" class="" data-category_id="4">Web Design</a></li>
-<li><a href="blog/blockchain/default.htm" class="" data-category_id="5">Blockchain</a></li>
-<li><a href="blog/ai/default.htm" class="" data-category_id="6">AI</a></li>
-<li><a href="blog/iot/default.htm" class="" data-category_id="7">IoT</a></li>
-<li><a href="blog/digital-marketing/default.htm" class="" data-category_id="8">Digital Marketing</a></li>
-<li><a href="blog/android/default.htm" class="" data-category_id="9">Android</a></li>
-<li><a href="blog/ios/default.htm" class="" data-category_id="10">iOS</a></li>
-<li><a href="blog/social-media/default.htm" class="" data-category_id="11">Social Media</a></li>
-<li><a href="blog/arvr/default.htm" class="" data-category_id="12">AR/VR</a></li>
-<li><a href="blog/game-development/default.htm" class="" data-category_id="13">Game Development</a></li>
-<li><a href="blog/top-apps/default.htm" class="" data-category_id="14">Top Apps</a></li>
-<li><a href="blog/salesforce/default.htm" class="" data-category_id="15">Salesforce</a></li>
-<li><a href="blog/software-development/default.htm" class="" data-category_id="16">Software Development</a></li>
- <li><a href="blog/seo/default.htm" class="" data-category_id="17">SEO</a></li>
-<li><a href="blog/technology/default.htm" class="" data-category_id="18">Technology</a></li>
-<li><a href="blog/big-data/default.htm" class="" data-category_id="19">Big Data</a></li>
-<li><a href="blog/app-marketing/default.htm" class="" data-category_id="20">App Marketing</a></li>
-<li><a href="blog/trends/default.htm" class="" data-category_id="21">Trends</a></li>
-<li><a href="blog/metaverse/default.htm" class="" data-category_id="22">Metaverse</a></li>
-<li><a href="blog/nft-marketplace/default.htm" class="" data-category_id="23">NFT Marketplace</a></li>
+<li><a href="blog/app-development/" class="" data-category_id="1">App Development</a></li>
+<li><a href="blog/web-development/" class="" data-category_id="2">Web Development</a></li>
+<li><a href="blog/uiux-design/" class="" data-category_id="3">UI/UX Design</a></li>
+<li><a href="blog/web-design/" class="" data-category_id="4">Web Design</a></li>
+<li><a href="blog/blockchain/" class="" data-category_id="5">Blockchain</a></li>
+<li><a href="blog/ai/" class="" data-category_id="6">AI</a></li>
+<li><a href="blog/iot/" class="" data-category_id="7">IoT</a></li>
+<li><a href="blog/digital-marketing/" class="" data-category_id="8">Digital Marketing</a></li>
+<li><a href="blog/android/" class="" data-category_id="9">Android</a></li>
+<li><a href="blog/ios/" class="" data-category_id="10">iOS</a></li>
+<li><a href="blog/social-media/" class="" data-category_id="11">Social Media</a></li>
+<li><a href="blog/arvr/" class="" data-category_id="12">AR/VR</a></li>
+<li><a href="blog/game-development/" class="" data-category_id="13">Game Development</a></li>
+<li><a href="blog/top-apps/" class="" data-category_id="14">Top Apps</a></li>
+<li><a href="blog/salesforce/" class="" data-category_id="15">Salesforce</a></li>
+<li><a href="blog/software-development/" class="" data-category_id="16">Software Development</a></li>
+ <li><a href="blog/seo/" class="" data-category_id="17">SEO</a></li>
+<li><a href="blog/technology/" class="" data-category_id="18">Technology</a></li>
+<li><a href="blog/big-data/" class="" data-category_id="19">Big Data</a></li>
+<li><a href="blog/app-marketing/" class="" data-category_id="20">App Marketing</a></li>
+<li><a href="blog/trends/" class="" data-category_id="21">Trends</a></li>
+<li><a href="blog/metaverse/" class="" data-category_id="22">Metaverse</a></li>
+<li><a href="blog/nft-marketplace/" class="" data-category_id="23">NFT Marketplace</a></li>
 </ul>
 </div>
 </div>
@@ -176,7 +176,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 <div class="container">
 <div class="row" id="blog-list">
 <div class="col-12 col-md-6 col-lg-6 col-xl-4 my-3 my-md-4">
-<a href="blog/top-healthcare-app-development-trends/default.htm">
+<a href="blog/top-healthcare-app-development-trends/">
 <div class="blog-box">
 <img class="img-fluid" src="/uploads/blog/1675631245.jpg" alt="top healthcare app development trends that will dominate in 2023" title="Top Healthcare App Development Trends That Will Dominate in 2023">
 <div class="blog-content-left p-3 ">
@@ -189,7 +189,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-6 col-xl-4 my-3 my-md-4">
-<a href="blog/best-frameworks-for-cross-platform-app-development/default.htm">
+<a href="blog/best-frameworks-for-cross-platform-app-development/">
 <div class="blog-box">
 <img class="img-fluid" src="/uploads/blog/1675216110.jpg" alt="best frameworks for cross platform app development" title="Best Frameworks For Cross-platform App Development">
 <div class="blog-content-left p-3 ">
@@ -202,7 +202,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-6 col-xl-4 my-3 my-md-4">
-<a href="blog/blazor-vs-angular/default.htm">
+<a href="blog/blazor-vs-angular/">
 <div class="blog-box">
 <img class="img-fluid" src="/uploads/blog/1674611335.jpg" alt="comparison between blazor and angular in 2023" title="Comparison Between Blazor And Angular In 2023">
 <div class="blog-content-left p-3 ">
@@ -215,7 +215,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-6 col-xl-4 my-3 my-md-4">
-<a href="blog/mistakes-to-avoid-while-working-with-react-native-apps/default.htm">
+<a href="blog/mistakes-to-avoid-while-working-with-react-native-apps/">
 <div class="blog-box">
 <img class="img-fluid" src="/uploads/blog/1674179189.jpg" alt="mistakes to avoid while working with react native apps" title="Mistakes To Avoid While Working With React Native Apps">
 <div class="blog-content-left p-3 ">
@@ -228,7 +228,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-6 col-xl-4 my-3 my-md-4">
-<a href="blog/must-have-devops-skills-for-devops-engineers/default.htm">
+<a href="blog/must-have-devops-skills-for-devops-engineers/">
 <div class="blog-box">
 <img class="img-fluid" src="/uploads/blog/1673832792.jpg" alt="must have devops skills for devops engineers" title="Must Have DevOps Skills For DevOps Engineers">
 <div class="blog-content-left p-3 ">
@@ -241,7 +241,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-6 col-xl-4 my-3 my-md-4">
-<a href="blog/fintech-app-development-complete-guide/default.htm">
+<a href="blog/fintech-app-development-complete-guide/">
 <div class="blog-box">
 <img class="img-fluid" src="/uploads/blog/1673230485.jpg" alt="fintech app development: complete guide" title="Fintech App Development: Complete Guide">
 <div class="blog-content-left p-3 ">
@@ -260,7 +260,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 </div>
 <div class="col-12 col-md-5 col-lg-5">
 <div class="slider-left-right-btn d-flex justify-content-center d-inline-flex d-md-inline-flex d-lg-flex align-items-center">
-<ul class="pager"><li class="next"><a href="blog/2/default.htm" data-ci-pagination-page="2" rel="next"> Next <img src="/frontend_assets/img/slider-arrow-blue.svg" alt=""> </a></li></ul> </div>
+<ul class="pager"><li class="next"><a href="blog/2/" data-ci-pagination-page="2" rel="next"> Next <img src="/frontend_assets/img/slider-arrow-blue.svg" alt=""> </a></li></ul> </div>
 </div>
 </div>
 </div>
@@ -277,7 +277,7 @@ Laravel provides a wide range of functionalities that include the fundamental co
 <div class="blog-content-left">
 <img class="img-fluid mb-3" src="/uploads/blog/1658387497.jpg" alt="popular blogs">
 <a href="javascript:void(0);"><span class="c-blue catg text-capitalize">Mobile App</span></a>
-<a href="blog/importance-of-application-software/default.htm">
+<a href="blog/importance-of-application-software/">
 <h2 class="title mt-4 mb-2">Importance of Application Software: A Complete Guide</h2>
 </a>
 <small class="read text-capitalize">21 / 07 / 2022</small>

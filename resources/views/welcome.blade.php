@@ -625,24 +625,24 @@
                                         <h4 class="m-0">App<br>Development</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="android-app-development.htm"><img
+                                        <li><a href="android-app-development"><img
                                                     src="/frontend_assets/img/services-we-offer/android.svg"
                                                     class="mr-3" width="23px" height="23px" alt="android">Android App</a>
                                         </li>
-                                        <li><a href="iphone-application-development-india.htm"><img
+                                        <li><a href="iphone-application-development-india"><img
                                                     src="/frontend_assets/img/services-we-offer/apple-icon.svg"
                                                     class="mr-3" width="23px" height="23px" alt="ios">iOS App</a></li>
-                                        <li><a href="flutter-app-development.htm"><img
+                                        <li><a href="flutter-app-development"><img
                                                     src="/frontend_assets/img/services-we-offer/flutter.svg"
                                                     class="mr-3" width="23px" height="23px" alt="flutter">Flutter</a></li>
-                                        <li><a href="react-native-app-development.htm"><img
+                                        <li><a href="react-native-app-development"><img
                                                     src="/frontend_assets/img/services-we-offer/react-native.svg"
                                                     class="mr-3" width="23px" height="23px" alt="react-native">React
                                                 Native</a></li>
-                                        <li><a href="kotlin-app-development.htm"><img
+                                        <li><a href="kotlin-app-development"><img
                                                     src="/frontend_assets/img/services-we-offer/kotlin.svg"
                                                     class="mr-3" width="23px" height="23px" alt="kotlin">Kotlin</a></li>
-                                        <li><a href="ionic-app-development.htm"><img
+                                        <li><a href="ionic-app-development"><img
                                                     src="/frontend_assets/img/services-we-offer/ionic.svg"
                                                     class="mr-3" width="23px" height="23px" alt="ionic  ">Ionic</a></li>
                                     </ul>
@@ -650,7 +650,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="mobile-app-development.htm" class="ml-3" title="">Read more <img
+                                            href="mobile-app-development" class="ml-3" title="">Read more <img
                                                 class="ml-3" src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
                                 </div>
@@ -666,23 +666,23 @@
                                         <h4 class="m-0">Web<br>Development</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="php-web-application-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="php-web-application-development"><img class="mr-3" width="23px"
                                                     height="23px" src="/frontend_assets/img/services-we-offer/php.svg"
                                                     alt="php">PHP</a></li>
-                                        <li><a href="wordpress-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="wordpress-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/wordpress.svg"
                                                     alt="wordpress">WordPress</a>
                                         </li>
-                                        <li><a href="drupal-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="drupal-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/drupal.svg"
                                                     alt="drupal">Drupal</a></li>
-                                        <li><a href="cakephp-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="cakephp-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/cakephp.svg"
                                                     alt="cakephp">CakePHP</a></li>
-                                        <li><a href="laravel-development.htm"><img class="mr-3" width="23px" height="23px"
+                                        <li><a href="laravel-development"><img class="mr-3" width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/laravel.svg"
                                                     alt="laravel">Laravel</a></li>
                                     </ul>
@@ -706,21 +706,21 @@
                                         <h4 class="m-0">Ecommerce<br>Development</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="magento-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="magento-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/magento.svg"
                                                     alt="magento">Magento</a></li>
-                                        <li><a href="bigcommerce.htm"><img class="mr-3" width="23px" height="23px"
+                                        <li><a href="bigcommerce"><img class="mr-3" width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/bigcommerce.svg"
                                                     alt="bigcommerce">Bigcommerce</a></li>
-                                        <li><a href="ubercart-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="ubercart-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/ubercart.svg"
                                                     alt="ubercart">Ubercart</a></li>
-                                        <li><a href="prestashop.htm"><img class="mr-3" width="23px" height="23px"
+                                        <li><a href="prestashop"><img class="mr-3" width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/prestashop.svg"
                                                     alt="prestashop">Prestashop</a></li>
-                                        <li><a href="virtuemart-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="virtuemart-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/virtuemart.svg"
                                                     alt="virtuemart">Virtuemart</a></li>
@@ -729,7 +729,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="ecommerce-development/default.htm" class="ml-3" title="">Read more <img
+                                            href="ecommerce-development/" class="ml-3" title="">Read more <img
                                                 class="ml-3" src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
                                 </div>
@@ -745,24 +745,24 @@
                                         <h4 class="m-0">Blockchain<br>Development</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="ethereum-app-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="ethereum-app-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/ethereum.svg"
                                                     alt="ethereum">Ethereum</a></li>
-                                        <li><a href="hyperledger-blockchain-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="hyperledger-blockchain-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/hyperledger.svg"
                                                     alt="hyperledger">Hyperledger</a></li>
-                                        <li><a href="smart-contracts-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="smart-contracts-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/smart-contract.svg"
                                                     alt="smart contract">Smart
                                                 Contracts</a></li>
-                                        <li><a href="private-blockchain-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="private-blockchain-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/private-blockchain.svg"
                                                     alt="private blockchain">Private Blockchains</a></li>
-                                        <li><a href="nft-marketplace-development-company/default.htm"><img class="mr-3"
+                                        <li><a href="nft-marketplace-development-company/"><img class="mr-3"
                                                     width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/nft-marketplace.svg"
                                                     alt="nft marketplace">NFT Marketplace</a></li>
@@ -771,7 +771,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="blockchain-development.htm" class="ml-3" title="">Read more <img
+                                            href="blockchain-development" class="ml-3" title="">Read more <img
                                                 class="ml-3" src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
                                 </div>
@@ -787,25 +787,25 @@
                                         <h4 class="m-0">Game<br>Development</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="unity3d-game-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="unity3d-game-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/unity-3d.svg"
                                                     alt="unity 3d">Unity 3d</a></li>
-                                        <li><a href="augmented-reality-app-development-company.htm"><img class="mr-3"
+                                        <li><a href="augmented-reality-app-development-company"><img class="mr-3"
                                                     width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/augmented-reality.svg"
                                                     alt="augmented reality">Augmented Reality</a></li>
                                         <li><a
-                                                href="virtual-reality-mobile-game-application-development-company-oculus-vr.htm"><img
+                                                href="virtual-reality-mobile-game-application-development-company-oculus-vr"><img
                                                     class="mr-3" width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/virtual-reality-v2.svg"
                                                     alt="virtual reality">Virtual Reality</a></li>
-                                        <li><a href="casual-game-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="casual-game-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/casual-games.svg"
                                                     alt="casual games">Casual
                                                 Games</a></li>
-                                        <li><a href="metaverse-development-company/default.htm"><img class="mr-3"
+                                        <li><a href="metaverse-development-company/"><img class="mr-3"
                                                     width="23px" height="23px"
                                                     src="/frontend_assets/img/services-we-offer/metaverse-new.svg"
                                                     alt="metaverse">Metaverse</a></li>
@@ -814,7 +814,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="game-development-company/default.htm" class="ml-3" title="">Read more <img
+                                            href="game-development-company/" class="ml-3" title="">Read more <img
                                                 class="ml-3" src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
                                 </div>
@@ -879,7 +879,7 @@
                                                         fill="#FFFFFF"
                                                         transform="translate(83.931882, 79.371477) scale(1, -1) translate(-83.931882, -79.371477) " />
                                                 </g>
-                                            </svg><a href="salesforce-development.htm">Salesforce Development</a></li>
+                                            </svg><a href="salesforce-development">Salesforce Development</a></li>
                                         <li><svg class="mr-2" width="23px" height="23px" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -38 256 256"
                                                 version="1.1" preserveAspectRatio="xMidYMid">
@@ -929,7 +929,7 @@
                                                         fill="#FFFFFF"
                                                         transform="translate(83.931882, 79.371477) scale(1, -1) translate(-83.931882, -79.371477) " />
                                                 </g>
-                                            </svg><a href="salesforce-consulting.htm">Salesforce Consulting</a></li>
+                                            </svg><a href="salesforce-consulting">Salesforce Consulting</a></li>
                                         <li><svg class="mr-2" width="23px" height="23px" xmlns="http://www.w3.org/2000/svg"
                                                 xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 -38 256 256"
                                                 version="1.1" preserveAspectRatio="xMidYMid">
@@ -979,13 +979,13 @@
                                                         fill="#FFFFFF"
                                                         transform="translate(83.931882, 79.371477) scale(1, -1) translate(-83.931882, -79.371477) " />
                                                 </g>
-                                            </svg><a href="salesforce-implementation.htm">Salesforce Implementation</a></li>
+                                            </svg><a href="salesforce-implementation">Salesforce Implementation</a></li>
                                     </ul>
                                 </div>
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="salesforce-development.htm" class="ml-3" title="">Read more <img
+                                            href="salesforce-development" class="ml-3" title="">Read more <img
                                                 width="23px" height="23px" class="ml-3"
                                                 src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
@@ -1002,29 +1002,29 @@
                                         <h4 class="m-0 align-self-center">AI & ML</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="text-to-speech/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="text-to-speech/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/text-to-speech.svg"
                                                     alt="text-to-speech">Text
                                                 To Speech</a></li>
-                                        <li><a href="business-intelligence/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="business-intelligence/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/business-intelligence.svg"
                                                     alt="business intelligence">Business Intelligence</a></li>
-                                        <li><a href="data-forecasting/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="data-forecasting/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/data-forecasting-new.svg"
                                                     alt="data forecasting">Data Forecasting</a></li>
-                                        <li><a href="natural-language-processing/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="natural-language-processing/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/natural-language-processing.svg"
                                                     alt="natural language processing">Natural Language Processing</a></li>
-                                        <li><a href="data-analytics/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="data-analytics/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/data-analytics.svg"
                                                     alt="data analytics">Data
                                                 Analytics</a></li>
-                                        <li><a href="alexa-skills-development.htm"><img class="mr-3" width="23px"
+                                        <li><a href="alexa-skills-development"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/alexa-skills-development.svg"
                                                     alt="alexa skills development">Alexa Skills Development</a></li>
@@ -1033,7 +1033,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="artificial-intelligence-and-machine-learning/default.htm" class="ml-3"
+                                            href="artificial-intelligence-and-machine-learning/" class="ml-3"
                                             title="">Read more <img class="ml-3"
                                                 src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
@@ -1050,19 +1050,19 @@
                                         <h4 class="m-0 align-self-center">IoT & Embedded</h4>
                                     </div>
                                     <ul class="list-unstyled mt-30">
-                                        <li><a href="iot-app-development/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="iot-app-development/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/iot-apps.svg"
                                                     alt="iot apps">IoT Apps</a></li>
-                                        <li><a href="embedded-software/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="embedded-software/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/embedded-software.svg"
                                                     alt="embedded software">Embedded Software</a></li>
-                                        <li><a href="iot-hardware-prototyping/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="iot-hardware-prototyping/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg"
                                                     alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
-                                        <li><a href="iot-dashboard-and-analytics/default.htm"><img class="mr-3" width="23px"
+                                        <li><a href="iot-dashboard-and-analytics/"><img class="mr-3" width="23px"
                                                     height="23px"
                                                     src="/frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg"
                                                     alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a>
@@ -1072,7 +1072,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="iot-development.htm" class="ml-3" title="">Read more <img class="ml-3"
+                                            href="iot-development" class="ml-3" title="">Read more <img class="ml-3"
                                                 src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
                                 </div>
@@ -1096,7 +1096,7 @@
                                 <div class="pt-1">
                                     <label
                                         class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                            href="devops/default.htm" class="ml-3" title="">Read more <img class="ml-3"
+                                            href="devops/" class="ml-3" title="">Read more <img class="ml-3"
                                                 src="/frontend_assets/img/arrow-right-white.svg"
                                                 alt="right arrow"></a></label>
                                 </div>
@@ -1125,27 +1125,27 @@
                                                     <h4 class="m-0">App<br>Development</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="android-app-development.htm"><img
+                                                    <li><a href="android-app-development"><img
                                                                 src="/frontend_assets/img/services-we-offer/android.svg"
                                                                 class="mr-3" width="23px" height="23px"
                                                                 alt="android">Android App</a></li>
-                                                    <li><a href="iphone-application-development-india.htm"><img
+                                                    <li><a href="iphone-application-development-india"><img
                                                                 src="/frontend_assets/img/services-we-offer/apple-icon.svg"
                                                                 class="mr-3" width="23px" height="23px" alt="ios">iPhone
                                                             App</a></li>
-                                                    <li><a href="flutter-app-development.htm"><img
+                                                    <li><a href="flutter-app-development"><img
                                                                 src="/frontend_assets/img/services-we-offer/flutter.svg"
                                                                 class="mr-3" width="23px" height="23px"
                                                                 alt="flutter">Flutter</a></li>
-                                                    <li><a href="react-native-app-development.htm"><img
+                                                    <li><a href="react-native-app-development"><img
                                                                 src="/frontend_assets/img/services-we-offer/react-native.svg"
                                                                 class="mr-3" width="23px" height="23px"
                                                                 alt="react-native">React Native</a></li>
-                                                    <li><a href="kotlin-app-development.htm"><img
+                                                    <li><a href="kotlin-app-development"><img
                                                                 src="/frontend_assets/img/services-we-offer/kotlin.svg"
                                                                 class="mr-3" width="23px" height="23px"
                                                                 alt="kotlin">Kotlin</a></li>
-                                                    <li><a href="ionic-app-development.htm"><img
+                                                    <li><a href="ionic-app-development"><img
                                                                 src="/frontend_assets/img/services-we-offer/ionic.svg"
                                                                 class="mr-3" width="23px" height="23px"
                                                                 alt="ionic  ">Ionic</a></li>
@@ -1154,7 +1154,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="mobile-app-development.htm" class="ml-3" title="">Read more
+                                                        href="mobile-app-development" class="ml-3" title="">Read more
                                                         <img class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>
@@ -1171,24 +1171,24 @@
                                                     <h4 class="m-0">Web<br>Development</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="php-web-application-development.htm"><img class="mr-3"
+                                                    <li><a href="php-web-application-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/php.svg"
                                                                 alt="php">PHP</a></li>
-                                                    <li><a href="wordpress-development.htm"><img class="mr-3"
+                                                    <li><a href="wordpress-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/wordpress.svg"
                                                                 alt="wordpress">WordPress</a></li>
-                                                    <li><a href="drupal-development.htm"><img class="mr-3"
+                                                    <li><a href="drupal-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/drupal.svg"
                                                                 alt="drupal">Drupal</a></li>
-                                                    <li><a href="cakephp-development.htm"><img class="mr-3"
+                                                    <li><a href="cakephp-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/cakephp.svg"
                                                                 alt="cakephp">CakePHP</a>
                                                     </li>
-                                                    <li><a href="laravel-development.htm"><img class="mr-3" width="23px"
+                                                    <li><a href="laravel-development"><img class="mr-3" width="23px"
                                                                 height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/laravel.svg"
                                                                 alt="laravel">Laravel</a>
@@ -1215,24 +1215,24 @@
                                                     <h4 class="m-0">Ecommerce<br>Development</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="magento-development.htm"><img class="mr-3"
+                                                    <li><a href="magento-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/magento.svg"
                                                                 alt="magento">Magento</a>
                                                     </li>
-                                                    <li><a href="bigcommerce.htm"><img class="mr-3" width="23px"
+                                                    <li><a href="bigcommerce"><img class="mr-3" width="23px"
                                                                 height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/bigcommerce.svg"
                                                                 alt="bigcommerce">Bigcommerce</a></li>
-                                                    <li><a href="ubercart-development.htm"><img class="mr-3"
+                                                    <li><a href="ubercart-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/ubercart.svg"
                                                                 alt="ubercart">Ubercart</a></li>
-                                                    <li><a href="prestashop.htm"><img class="mr-3" width="23px"
+                                                    <li><a href="prestashop"><img class="mr-3" width="23px"
                                                                 height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/prestashop.svg"
                                                                 alt="prestashop">Prestashop</a></li>
-                                                    <li><a href="virtuemart-development.htm"><img class="mr-3"
+                                                    <li><a href="virtuemart-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/virtuemart.svg"
                                                                 alt="virtuemart">Virtuemart</a></li>
@@ -1241,7 +1241,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="ecommerce-development/default.htm" class="ml-3" title="">Read
+                                                        href="ecommerce-development/" class="ml-3" title="">Read
                                                         more <img class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>
@@ -1258,23 +1258,23 @@
                                                     <h4 class="m-0">Blockchain<br>Development</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="ethereum-app-development.htm"><img class="mr-3"
+                                                    <li><a href="ethereum-app-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/ethereum.svg"
                                                                 alt="ethereum">Ethereum</a></li>
-                                                    <li><a href="hyperledger-blockchain-development.htm"><img class="mr-3"
+                                                    <li><a href="hyperledger-blockchain-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/hyperledger.svg"
                                                                 alt="hyperledger">Hyperledger</a></li>
-                                                    <li><a href="smart-contracts-development.htm"><img class="mr-3"
+                                                    <li><a href="smart-contracts-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/smart-contract.svg"
                                                                 alt="smart contract">Smart Contracts</a></li>
-                                                    <li><a href="private-blockchain-development.htm"><img class="mr-3"
+                                                    <li><a href="private-blockchain-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/private-blockchain.svg"
                                                                 alt="private blockchain">Private Blockchains</a></li>
-                                                    <li><a href="nft-marketplace-development-company/default.htm"><img
+                                                    <li><a href="nft-marketplace-development-company/"><img
                                                                 class="mr-3" width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/nft-marketplace.svg"
                                                                 alt="nft marketplace">NFT Marketplace</a></li>
@@ -1283,7 +1283,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="blockchain-development.htm" class="ml-3" title="">Read more
+                                                        href="blockchain-development" class="ml-3" title="">Read more
                                                         <img class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>
@@ -1300,25 +1300,25 @@
                                                     <h4 class="m-0">Game<br>Development</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="unity3d-game-development.htm"><img class="mr-3"
+                                                    <li><a href="unity3d-game-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/unity-3d.svg"
                                                                 alt="unity 3d">Unity
                                                             3d</a></li>
-                                                    <li><a href="augmented-reality-app-development-company.htm"><img
+                                                    <li><a href="augmented-reality-app-development-company"><img
                                                                 class="mr-3" width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/augmented-reality.svg"
                                                                 alt="augmented reality">Augmented Reality</a></li>
                                                     <li><a
-                                                            href="virtual-reality-mobile-game-application-development-company-oculus-vr.htm"><img
+                                                            href="virtual-reality-mobile-game-application-development-company-oculus-vr"><img
                                                                 class="mr-3" width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/virtual-reality-v2.svg"
                                                                 alt="virtual reality">Virtual Reality</a></li>
-                                                    <li><a href="casual-game-development.htm"><img class="mr-3" width="23px"
+                                                    <li><a href="casual-game-development"><img class="mr-3" width="23px"
                                                                 height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/casual-games.svg"
                                                                 alt="casual games">Casual Games</a></li>
-                                                    <li><a href="metaverse-development-company/default.htm"><img
+                                                    <li><a href="metaverse-development-company/"><img
                                                                 class="mr-3" width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/metaverse-new.svg"
                                                                 alt="metaverse">Metaverse</a></li>
@@ -1327,7 +1327,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="game-development-company/default.htm" class="ml-3"
+                                                        href="game-development-company/" class="ml-3"
                                                         title="">Read more <img class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>
@@ -1395,7 +1395,7 @@
                                                                     fill="#FFFFFF"
                                                                     transform="translate(83.931882, 79.371477) scale(1, -1) translate(-83.931882, -79.371477) " />
                                                             </g>
-                                                        </svg><a href="salesforce-development.htm">Salesforce
+                                                        </svg><a href="salesforce-development">Salesforce
                                                             Development</a></li>
                                                     <li><svg class="mr-2" width="23px" height="23px"
                                                             xmlns="http://www.w3.org/2000/svg"
@@ -1448,7 +1448,7 @@
                                                                     fill="#FFFFFF"
                                                                     transform="translate(83.931882, 79.371477) scale(1, -1) translate(-83.931882, -79.371477) " />
                                                             </g>
-                                                        </svg><a href="salesforce-consulting.htm">Salesforce Consulting</a>
+                                                        </svg><a href="salesforce-consulting">Salesforce Consulting</a>
                                                     </li>
                                                     <li><svg class="mr-2" width="23px" height="23px"
                                                             xmlns="http://www.w3.org/2000/svg"
@@ -1501,14 +1501,14 @@
                                                                     fill="#FFFFFF"
                                                                     transform="translate(83.931882, 79.371477) scale(1, -1) translate(-83.931882, -79.371477) " />
                                                             </g>
-                                                        </svg><a href="salesforce-implementation.htm">Salesforce
+                                                        </svg><a href="salesforce-implementation">Salesforce
                                                             Implementation</a></li>
                                                 </ul>
                                             </div>
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="salesforce-development.htm" class="ml-3" title="">Read more
+                                                        href="salesforce-development" class="ml-3" title="">Read more
                                                         <img class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>
@@ -1525,28 +1525,28 @@
                                                     <h4 class="m-0 align-self-center">AI & ML</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="text-to-speech/default.htm"><img class="mr-3" width="23px"
+                                                    <li><a href="text-to-speech/"><img class="mr-3" width="23px"
                                                                 height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/text-to-speech.svg"
                                                                 alt="text-to-speech">Text To Speech</a></li>
-                                                    <li><a href="business-intelligence/default.htm"><img class="mr-3"
+                                                    <li><a href="business-intelligence/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/business-intelligence.svg"
                                                                 alt="business intelligence">Business Intelligence</a></li>
-                                                    <li><a href="data-forecasting/default.htm"><img class="mr-3"
+                                                    <li><a href="data-forecasting/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/business-intelligence.svg"
                                                                 alt="data forecasting">Data Forecasting</a></li>
-                                                    <li><a href="natural-language-processing/default.htm"><img class="mr-3"
+                                                    <li><a href="natural-language-processing/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/natural-language-processing.svg"
                                                                 alt="natural language processing">Natural Language
                                                             Processing</a></li>
-                                                    <li><a href="data-analytics/default.htm"><img class="mr-3" width="23px"
+                                                    <li><a href="data-analytics/"><img class="mr-3" width="23px"
                                                                 height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/data-analytics.svg"
                                                                 alt="data analytics">Data Analytics</a></li>
-                                                    <li><a href="alexa-skills-development.htm"><img class="mr-3"
+                                                    <li><a href="alexa-skills-development"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/alexa-skills-development.svg"
                                                                 alt="alexa skills development">Alexa Skills Development</a>
@@ -1556,7 +1556,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="artificial-intelligence-and-machine-learning/default.htm"
+                                                        href="artificial-intelligence-and-machine-learning/"
                                                         class="ml-3" title="">Read
                                                         more <img class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
@@ -1574,21 +1574,21 @@
                                                     <h4 class="m-0 align-self-center">IoT & Embedded</h4>
                                                 </div>
                                                 <ul class="list-unstyled mt-30">
-                                                    <li><a href="iot-app-development/default.htm"><img class="mr-3"
+                                                    <li><a href="iot-app-development/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/iot-apps.svg"
                                                                 alt="iot apps">IoT
                                                             Apps</a></li>
-                                                    <li><a href="embedded-software/default.htm"><img class="mr-3"
+                                                    <li><a href="embedded-software/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/embedded-software.svg"
                                                                 alt="embedded software">Embedded Software</a></li>
-                                                    <li><a href="iot-hardware-prototyping/default.htm"><img class="mr-3"
+                                                    <li><a href="iot-hardware-prototyping/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg"
                                                                 alt="iot hardware prototyping">IoT Hardware Prototyping</a>
                                                     </li>
-                                                    <li><a href="iot-dashboard-and-analytics/default.htm"><img class="mr-3"
+                                                    <li><a href="iot-dashboard-and-analytics/"><img class="mr-3"
                                                                 width="23px" height="23px"
                                                                 src="/frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg"
                                                                 alt="iot dashboard and data analytics">IoT Dashboard and
@@ -1598,7 +1598,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="iot-development.htm" class="ml-3" title="">Read more <img
+                                                        href="iot-development" class="ml-3" title="">Read more <img
                                                             class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>
@@ -1623,7 +1623,7 @@
                                             <div class="pt-1">
                                                 <label
                                                     class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a
-                                                        href="devops/default.htm" class="ml-3" title="">Read more <img
+                                                        href="devops/" class="ml-3" title="">Read more <img
                                                             class="ml-3"
                                                             src="/frontend_assets/img/arrow-right-white.svg"
                                                             alt="right arrow"></a></label>

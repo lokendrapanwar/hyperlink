@@ -11,7 +11,7 @@
 <div class="col-12 col-md-12 col-lg-12 text-right mb-3">
 <nav aria-label="breadcrumb">
 <ol class="breadcrumb d-inline-flex">
-<li class="breadcrumb-item"><a href="../default.htm" class="c-blue">Home</a></li>
+<li class="breadcrumb-item"><a href="../" class="c-blue">Home</a></li>
 <li class="breadcrumb-item active" aria-current="page">Global</li>
 </ol>
 </nav>
@@ -31,7 +31,7 @@
 </div>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-in-california-san-francisco-los-angeles/default.htm">
+<a href="../top-mobile-app-development-company-in-california-san-francisco-los-angeles/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/california.jpg)" alt="mobile app development company in california" title="Mobile App Development Company In California">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">California</h2>
@@ -53,7 +53,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-in-new-york/default.htm">
+<a href="../top-mobile-app-development-company-in-new-york/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/New-York.jpg)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">New York</h2>
@@ -75,7 +75,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-in-texas/default.htm">
+<a href="../top-mobile-app-development-company-in-texas/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/texas.png)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Texas</h2>
@@ -97,7 +97,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-illinois/default.htm">
+<a href="../top-mobile-app-development-company-illinois/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/illinois.png)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Illinois</h2>
@@ -119,7 +119,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-in-florida-miami/default.htm">
+<a href="../top-mobile-app-development-company-in-florida-miami/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/miami.jpg)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Florida</h2>
@@ -141,7 +141,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-georgia/default.htm">
+<a href="../top-mobile-app-development-company-georgia/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/Georgia.png)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Georgia</h2>
@@ -163,7 +163,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-utah/default.htm">
+<a href="../top-mobile-app-development-company-utah/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/Utah.png)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Utah</h2>
@@ -185,7 +185,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-maryland/default.htm">
+<a href="../top-mobile-app-development-company-maryland/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/Maryland.png)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Maryland</h2>
@@ -207,7 +207,7 @@
 </a>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-arizona/default.htm">
+<a href="../top-mobile-app-development-company-arizona/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/Arizona.png)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Arizona</h2>
@@ -237,7 +237,7 @@
 </div>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-in-riyadh-jeddah-saudi-arabia/default.htm">
+<a href="../top-mobile-app-development-company-in-riyadh-jeddah-saudi-arabia/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/Riyadh.jpg)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Riyadh</h2>
@@ -289,7 +289,7 @@
 </div>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-australia/default.htm">
+<a href="../top-mobile-app-development-company-australia/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/Australia.jpg)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">Australia</h2>
@@ -319,7 +319,7 @@
 </div>
 </div>
 <div class="col-12 col-md-6 col-lg-4 my-3">
-<a href="../top-mobile-app-development-company-in-uk-london/default.htm">
+<a href="../top-mobile-app-development-company-in-uk-london/">
 <div class="content-box overflow-hidden d-flex bg-img h-100" style="background-image: url(../frontend_assets/img/uk.jpg)">
 <div class="title-content align-self-end c-white w-100">
 <h2 class="title mb-1 mt-0">London</h2>
@@ -364,7 +364,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677799964.jpg" srcset="..//uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -377,7 +377,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677540725.jpg" srcset="..//uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -390,7 +390,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677116774.jpg" srcset="..//uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>

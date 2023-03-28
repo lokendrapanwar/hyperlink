@@ -14,7 +14,7 @@
     </div>
     <div>
         <a class="mr-0 c-black d-inline-flex shadow-btn" href="press-releases">Press Release</a>
-        <a class="mr-2 c-black d-inline-flex shadow-btn" href="our-portfolio/default.htm">Our Fresh Work</a>
+        <a class="mr-2 c-black d-inline-flex shadow-btn" href="our-portfolio/">Our Fresh Work</a>
     </div>
 </div>
 @include('header-menu')

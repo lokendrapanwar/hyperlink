@@ -11,8 +11,8 @@
 <div class="col-12 col-md-12 col-lg-12 text-right mb-3">
 <nav aria-label="breadcrumb">
 <ol class="breadcrumb d-inline-flex">
-<li class="breadcrumb-item"><a href="../../default.htm" class="c-blue">Home</a></li>
-<li class="breadcrumb-item"><a href="../default.htm" class="c-blue">Case Study</a></li>
+<li class="breadcrumb-item"><a href="../../" class="c-blue">Home</a></li>
+<li class="breadcrumb-item"><a href="../" class="c-blue">Case Study</a></li>
 </ol>
 </nav>
 </div>

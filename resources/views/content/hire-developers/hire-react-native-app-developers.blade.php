@@ -291,6 +291,7 @@ At Hyperlink InfoSystem, we provide cost-effective solutions. We make sure to li
 <div class="input-group-prepend">
 <img src="/frontend_assets/img/profile.svg" alt="profile">
 </div>
+@csrf()
 <input type="text" class="form-control" id="name" placeholder="Your Full Name*" aria-label="Your Full Name" name="name" data-msg-required="Please enter your name." value="">
 </div>
 <div> <span class="name-error"> </span> </div>
@@ -950,7 +951,7 @@ Please enter sum:
 </a>
 </div>
 <div class="d-inline-flex flex-column col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2 text-center my-3 my-md-3 mt-lg-5">
-<a href="swift-development/default.htm">
+<a href="swift-development/">
 <div class="inner-box m-auto">
 <img src="/frontend_assets/img/services-we-offer/swift-icon.svg" width="53px" alt="swift">
 </div>
@@ -958,7 +959,7 @@ Please enter sum:
 </a>
 </div>
 <div class="d-inline-flex flex-column col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2 text-center my-3 my-md-3 mt-lg-5">
-<a href="xamarin-app-development/default.htm">
+<a href="xamarin-app-development/">
 <div class="inner-box m-auto">
 <img src="/frontend_assets/img/services-we-offer/xamarin.svg" width="53px" alt="Xamarin">
 </div>
@@ -1014,7 +1015,7 @@ Please enter sum:
 </a>
 </div>
 <div class="d-inline-flex flex-column col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2 text-center my-3 my-md-3 mt-lg-5">
-<a href="top-wearable-app-development-company/default.htm">
+<a href="top-wearable-app-development-company/">
 <div class="inner-box m-auto">
 <img src="/frontend_assets/img/services-we-offer/wearable.svg" alt="wearable">
 </div>
@@ -1042,7 +1043,7 @@ Please enter sum:
  </a>
 </div>
 <div class="d-inline-flex flex-column col-6 col-sm-6 col-md-3 col-lg-3 col-xl-2 text-center my-3 my-md-3 mt-lg-5">
-<a href="typescript/default.htm">
+<a href="typescript/">
 <div class="inner-box m-auto">
 <img src="/frontend_assets/img/services-we-offer/typescript.svg" width="50px" alt="typescript">
 </div>
@@ -1484,7 +1485,7 @@ Please enter sum:
  <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677799964.jpg" srcset="/uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -1497,7 +1498,7 @@ Please enter sum:
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="blog/how-to-create-an-online-laundry-app/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677540725.jpg" srcset="/uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -1510,7 +1511,7 @@ Please enter sum:
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677116774.jpg" srcset="/uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>
@@ -1536,7 +1537,7 @@ Please enter sum:
 <p class="desc mb-0">Listen Technology Based Podcast Hosted By Hyperlink InfoSystem.</p>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-7 text-right align-self-center d-none d-sm-none d-md-block">
-<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="podcast/default.htm" class="ml-3" title="">View All <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="podcast/" class="ml-3" title="">View All <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
 </div>
 </div>
 <div class="row mob-row flex-nowrap flex-sm-nowrap flex-md-wrap flex-lg-nowrap flex-xl-wrap mt-3 pb-3 lst-podcast">
@@ -1557,7 +1558,7 @@ Please enter sum:
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_0">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/is-blockchain-technology-worth-the-hype/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/is-blockchain-technology-worth-the-hype/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -1580,7 +1581,7 @@ Please enter sum:
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_1">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/iot-technology-a-future-in-making-or-speculating/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/iot-technology-a-future-in-making-or-speculating/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -1603,7 +1604,7 @@ Please enter sum:
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_2">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/flutter-vs-react-native/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/flutter-vs-react-native/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -1626,7 +1627,7 @@ Please enter sum:
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_3">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/journey-of-hyperlink-infosystem/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/journey-of-hyperlink-infosystem/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>

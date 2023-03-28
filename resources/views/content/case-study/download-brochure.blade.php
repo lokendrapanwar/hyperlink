@@ -11,7 +11,7 @@
 <div class="col-12 col-md-12 col-lg-12 text-right mb-3">
 <nav aria-label="breadcrumb">
 <ol class="breadcrumb d-inline-flex">
-<li class="breadcrumb-item"><a href="../default.htm" class="c-blue">Home</a></li>
+<li class="breadcrumb-item"><a href="../" class="c-blue">Home</a></li>
 <li class="breadcrumb-item active" aria-current="page">Digital Brochure</li>
 </ol>
 </nav>
@@ -34,7 +34,7 @@
 <div class="row download-pdf mt-5">
 <div class="col-12 col-md-12 col-xl-12">
 <div class="get-qoute-sect">
-<form name="inquiry" id="inquiry" action="inquiry/broucherdownload/default.htm" method="POST" enctype="multipart/form-data" novalidate="novalidate">
+<form name="inquiry" id="inquiry" action="inquiry/broucherdownload/" method="POST" enctype="multipart/form-data" novalidate="novalidate">
 <div class="row">
 <div class="col-12 col-md-12 col-lg-12 mb-3">
 <h2 class="text-capitalize">Get Brochure</h2>
@@ -94,7 +94,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677799964.jpg" srcset="..//uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -107,7 +107,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677540725.jpg" srcset="..//uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -120,7 +120,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677116774.jpg" srcset="..//uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>
@@ -146,7 +146,7 @@
 <p class="desc mb-0">Listen Technology Based Podcast Hosted By Hyperlink InfoSystem.</p>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-7 text-right align-self-center d-none d-sm-none d-md-block">
-<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="../podcast/default.htm" class="ml-3" title="">View All <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="../podcast/" class="ml-3" title="">View All <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
 </div>
 </div>
 <div class="row mob-row flex-nowrap flex-sm-nowrap flex-md-wrap flex-lg-nowrap flex-xl-wrap mt-3 pb-3 lst-podcast">

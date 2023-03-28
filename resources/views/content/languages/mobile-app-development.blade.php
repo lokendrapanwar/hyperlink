@@ -184,7 +184,7 @@
 <div class="page-section" id="title-4">
 <h2 class="sub-title">Most Trendy Mobile App Ideas 2022</h2>
 </div>
-<p class="desc">Now you have all the required knowledge about the app development process that you should have but wait do you really want to stand out from the others? Do you think your app development idea will help you stand out? If you have a second thought about it, here is the list of <a href="research/the-best-mobile-app-ideas-to-develop-for-businesses-in-2020/default.htm" target="_blank">trending mobile app development ideas</a> that can help you stand out from your competition and help you earn as well.</p>
+<p class="desc">Now you have all the required knowledge about the app development process that you should have but wait do you really want to stand out from the others? Do you think your app development idea will help you stand out? If you have a second thought about it, here is the list of <a href="research/the-best-mobile-app-ideas-to-develop-for-businesses-in-2020/" target="_blank">trending mobile app development ideas</a> that can help you stand out from your competition and help you earn as well.</p>
 <ul>
 <li>
 <h3 class="sub-title-2">On-Demand Food Delivery Mobile Application</h3>
@@ -206,7 +206,7 @@
 <div class="img-content my-3 my-md-4">
 <img class="img-fluid" src="/frontend_assets/img/mobile-page-img/an-internet-of-things-iot-based-mobile-application.jpg" alt="an internet of things iot based mobile application">
 </div>
-<p class="desc">IoT-enabled appliances offer a way to enhance our day-to-day life through the smart home, smart locks, smart office, smart parking and down-the-line smart city. Even if we have thousands of smart appliances, we will need a way for remote communication. Your mobile app development can be that way of communication. You can make users' lives easy by allowing them to access their smart appliances through your <a href="iot-app-development/default.htm" target="_blank">IoT mobile apps</a> and keep them aware of the safety and security of their belongings.</p>
+<p class="desc">IoT-enabled appliances offer a way to enhance our day-to-day life through the smart home, smart locks, smart office, smart parking and down-the-line smart city. Even if we have thousands of smart appliances, we will need a way for remote communication. Your mobile app development can be that way of communication. You can make users' lives easy by allowing them to access their smart appliances through your <a href="iot-app-development/" target="_blank">IoT mobile apps</a> and keep them aware of the safety and security of their belongings.</p>
 </li>
 <li>
 <h3 class="sub-title-2">A Video Streaming Mobile Application</h3>
@@ -242,7 +242,7 @@
 <img class="img-fluid" src="/frontend_assets/img/mobile-page-img/a-language-learning-mobile-application.jpg" alt="a language learning mobile application">
 </div>
 <p class="desc mb-3">In any case, even after the pinnacle of lockdown, e-learning is still popular. As per ReportLinker, the educational app market in the US is assessed at $90 billion in the year 2021. Furthermore, that's what Statista shows: "education" was the third most famous industry in the App Store, making 8.66% of search requests. This information shows that educational applications have a market need and energetic development viewpoints, including monetization.</p>
-<p class="desc mb-3">For instance, individuals like to learn foreign languages all over the planet - so why not <a href="blog/how-to-develop-a-language-learning-app-like-duolingo/default.htm" target="_blank">make a language-learning mobile application</a>? An application like this ought to have video lessons or text content that concentrate on materials and practice choices like self-check tests and video calls with individuals from various nations.</p>
+<p class="desc mb-3">For instance, individuals like to learn foreign languages all over the planet - so why not <a href="blog/how-to-develop-a-language-learning-app-like-duolingo/" target="_blank">make a language-learning mobile application</a>? An application like this ought to have video lessons or text content that concentrate on materials and practice choices like self-check tests and video calls with individuals from various nations.</p>
 <p class="desc">It may very well be challenging for new businesses to rival bigger language learning mobile applications since it will be difficult to draw in an adequate number of individuals for language exchange calls. However, you can tackle this by proposing free rewards for regular activities in your application. You can likewise add classes with proficient educators to adapt the mobile application with in-app purchases or membership and so on.</p>
 </li>
 <li>
@@ -350,7 +350,7 @@
 </li>
 <li>
 <h3 class="sub-title-2">Hybrid App Development</h3>
-<p class="desc">When it comes to Hybrid Apps, these mobile applications are a blend of web applications and native application development, thus they offer the best-case scenario. What individuals love about Hybrid applications is that, unlike native mobile applications, hybrid mobile applications can chip away at numerous devices and operating systems, which obviously saves <a href="hybrid-app-development/default.htm" target="_blank">Hybrid app development</a> time and money.</p>
+<p class="desc">When it comes to Hybrid Apps, these mobile applications are a blend of web applications and native application development, thus they offer the best-case scenario. What individuals love about Hybrid applications is that, unlike native mobile applications, hybrid mobile applications can chip away at numerous devices and operating systems, which obviously saves <a href="hybrid-app-development/" target="_blank">Hybrid app development</a> time and money.</p>
 <h4 class="c-gray">Benefits of Hybrid App Development</h4>
 <ul>
 <li class="mb-4">
@@ -446,7 +446,7 @@
 </li>
 <li>
 <h3 class="sub-title-2">Progressive Web App Development</h3>
- <p class="desc"><a href="progressive-web-apps/default.htm" target="_blank">Progressive web applications</a> utilize comparable web technologies to normal web applications, yet are undeniably more prevalent and are viewed as the eventual fate of the mobile web. PWAs have extra usefulness than standard web applications which assists them in giving a remarkable user experience. Very much like a native application, Users can introduce and send off a PWA mobile application on their devices.</p>
+ <p class="desc"><a href="progressive-web-apps/" target="_blank">Progressive web applications</a> utilize comparable web technologies to normal web applications, yet are undeniably more prevalent and are viewed as the eventual fate of the mobile web. PWAs have extra usefulness than standard web applications which assists them in giving a remarkable user experience. Very much like a native application, Users can introduce and send off a PWA mobile application on their devices.</p>
 <h4 class="c-gray">Benefits of Progressive Web App</h4>
 <ul>
 <li class="mb-4">
@@ -731,7 +731,7 @@
 </li>
 <li>
 <h3 class="sub-title-2">Meteor</h3>
-<p class="desc">Another open-source javascript mobile application framework <a href="meteorjs-development-company/default.htm" target="_blank">Meteor JS development</a> is made using Node.js. Meteor JS is the best JS framework for the mobile app that empowers speedy prototyping and works with cross-platform code. Meteor is compatible with any front-end JS mobile web framework, including React, Angular Vue, Blaze and Svelte.</p>
+<p class="desc">Another open-source javascript mobile application framework <a href="meteorjs-development-company/" target="_blank">Meteor JS development</a> is made using Node.js. Meteor JS is the best JS framework for the mobile app that empowers speedy prototyping and works with cross-platform code. Meteor is compatible with any front-end JS mobile web framework, including React, Angular Vue, Blaze and Svelte.</p>
 <h4 class="c-gray">Benefits of Using Meteor Framework</h4>
 <ul>
 <li><p class="desc">Performs amazing even with single language code usage.</p></li>
@@ -1311,7 +1311,7 @@
  </li>
 <li>
 <h3 class="sub-title-2">Mobile Gaming Application</h3>
-<p class="desc">The mobile gaming applications can be as small as Snake and Ladder, <a href="case-study/ludo-classic-board-game-app/default.htm" target="_blank">Ludo</a>, <a target="_blank" href="case-study/rummy-card-game-development/default.htm">Rummy</a>, or <a target="_blank" href="case-study/poker-online-casino-game/default.htm">Poker</a> to the latest technology-based gaming solution. The cost of a mobile gaming application varies based on the features and functionalities of the solution.</p>
+<p class="desc">The mobile gaming applications can be as small as Snake and Ladder, <a href="case-study/ludo-classic-board-game-app/" target="_blank">Ludo</a>, <a target="_blank" href="case-study/rummy-card-game-development/">Rummy</a>, or <a target="_blank" href="case-study/poker-online-casino-game/">Poker</a> to the latest technology-based gaming solution. The cost of a mobile gaming application varies based on the features and functionalities of the solution.</p>
 <p class="desc"><b>Mobile Game app development cost:</b> $50,000 - $200,000</p>
 </li>
 <li>
@@ -1326,9 +1326,9 @@
 </li>
 <li>
 <h3 class="sub-title-2">Metaverse Development</h3>
-<p class="desc">Steeping a step forward in the world of AR and VR, people are living in the world of Metaverse. Gaming, real estate, entertainment and various other industries can enhance their services through <a target="_blank" href="case-study/pet-universe-metaverse-game/default.htm">Metaverse-based mobile applications</a>.</p>
+<p class="desc">Steeping a step forward in the world of AR and VR, people are living in the world of Metaverse. Gaming, real estate, entertainment and various other industries can enhance their services through <a target="_blank" href="case-study/pet-universe-metaverse-game/">Metaverse-based mobile applications</a>.</p>
 <p class="desc"><b>Metaverse Mobile app development cost:</b> $60,000 - $300,000</p>
-<p class="desc"><b>Also Read:</b> <a href="research/app-development-cost-in-2021/default.htm" target="_blank">How Much Does It Cost To Build A Mobile App?</a></p>
+<p class="desc"><b>Also Read:</b> <a href="research/app-development-cost-in-2021/" target="_blank">How Much Does It Cost To Build A Mobile App?</a></p>
 </li>
 </ul>
 <div class="page-section" id="title-13">
@@ -1392,7 +1392,7 @@
 </li>
 <li>
 <h3 class="sub-title-2">AI/ML</h3>
-<p class="desc">Many organizations across various industries are currently using Artificial Intelligence in the development of AI-enabled mobile application features such as voice translation, face detection, data automation and many more to provide more customized user experience, transmissions, substantially and more. When it comes to machine learning, it is demonstrated power in helping the mobile application development scene. For these reasons, you will see more organizations exploit <a target="_blank" href="artificial-intelligence-and-machine-learning/default.htm">Artificial Intelligence and Machine Learning</a> in creating innovative applications that understand user behaviour monitor the day-to-day activities of clients and provide better outcomes without flowing proper guidelines.</p>
+<p class="desc">Many organizations across various industries are currently using Artificial Intelligence in the development of AI-enabled mobile application features such as voice translation, face detection, data automation and many more to provide more customized user experience, transmissions, substantially and more. When it comes to machine learning, it is demonstrated power in helping the mobile application development scene. For these reasons, you will see more organizations exploit <a target="_blank" href="artificial-intelligence-and-machine-learning/">Artificial Intelligence and Machine Learning</a> in creating innovative applications that understand user behaviour monitor the day-to-day activities of clients and provide better outcomes without flowing proper guidelines.</p>
 </li>
 <li>
 <h3 class="sub-title-2">Super Apps</h3>
@@ -1712,7 +1712,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="ecommerce-development/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="ecommerce-development/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1728,7 +1728,7 @@
 <li><a href="hyperledger-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/hyperledger.svg" alt="hyperledger">Hyperledger</a></li>
 <li><a href="smart-contracts-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/smart-contract.svg" alt="smart contract">Smart Contracts</a></li>
 <li><a href="private-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/private-blockchain.svg" alt="private blockchain">Private Blockchains</a></li>
-<li><a href="nft-marketplace-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
+<li><a href="nft-marketplace-development-company/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -1748,11 +1748,11 @@
 <li><a href="augmented-reality-app-development-company.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/augmented-reality.svg" alt="augmented reality">Augmented Reality</a></li>
 <li><a href="virtual-reality-mobile-game-application-development-company-oculus-vr.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/virtual-reality-v2.svg" alt="virtual reality">Virtual Reality</a></li>
 <li><a href="casual-game-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/casual-games.svg" alt="casual games">Casual Games</a></li>
-<li><a href="metaverse-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
+<li><a href="metaverse-development-company/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="game-development-company/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="game-development-company/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1782,16 +1782,16 @@
 <h4 class="m-0 align-self-center">AI & ML</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="text-to-speech/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
-<li><a href="business-intelligence/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
-<li><a href="data-forecasting/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/data-forecasting-new.svg" alt="data forecasting">Data Forecasting</a></li>
-<li><a href="natural-language-processing/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
-<li><a href="data-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
+<li><a href="text-to-speech/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
+<li><a href="business-intelligence/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
+<li><a href="data-forecasting/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/data-forecasting-new.svg" alt="data forecasting">Data Forecasting</a></li>
+<li><a href="natural-language-processing/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
+<li><a href="data-analytics/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
 <li><a href="alexa-skills-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/alexa-skills-development.svg" alt="alexa skills development">Alexa Skills Development</a></li>
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="artificial-intelligence-and-machine-learning/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="artificial-intelligence-and-machine-learning/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1803,10 +1803,10 @@
 <h4 class="m-0 align-self-center">IoT & Embedded</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="iot-app-development/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
-<li><a href="embedded-software/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
-<li><a href="iot-hardware-prototyping/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
-<li><a href="iot-dashboard-and-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
+<li><a href="iot-app-development/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
+<li><a href="embedded-software/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
+<li><a href="iot-hardware-prototyping/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
+<li><a href="iot-dashboard-and-analytics/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -1826,7 +1826,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="devops/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="devops/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1900,7 +1900,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="ecommerce-development/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="ecommerce-development/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1916,7 +1916,7 @@
 <li><a href="hyperledger-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/hyperledger.svg" alt="hyperledger">Hyperledger</a></li>
 <li><a href="smart-contracts-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/smart-contract.svg" alt="smart contract">Smart Contracts</a></li>
 <li><a href="private-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/private-blockchain.svg" alt="private blockchain">Private Blockchains</a></li>
-<li><a href="nft-marketplace-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
+<li><a href="nft-marketplace-development-company/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -1936,11 +1936,11 @@
 <li><a href="augmented-reality-app-development-company.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/augmented-reality.svg" alt="augmented reality">Augmented Reality</a></li>
 <li><a href="virtual-reality-mobile-game-application-development-company-oculus-vr.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/virtual-reality-v2.svg" alt="virtual reality">Virtual Reality</a></li>
 <li><a href="casual-game-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/casual-games.svg" alt="casual games">Casual Games</a></li>
-<li><a href="metaverse-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
+<li><a href="metaverse-development-company/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="game-development-company/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="game-development-company/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1970,16 +1970,16 @@
 <h4 class="m-0 align-self-center">AI & ML</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="text-to-speech/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
-<li><a href="business-intelligence/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
-<li><a href="data-forecasting/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/business-intelligence.svg" alt="data forecasting">Data Forecasting</a></li>
-<li><a href="natural-language-processing/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
-<li><a href="data-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
+<li><a href="text-to-speech/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
+<li><a href="business-intelligence/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
+<li><a href="data-forecasting/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/business-intelligence.svg" alt="data forecasting">Data Forecasting</a></li>
+<li><a href="natural-language-processing/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
+<li><a href="data-analytics/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
 <li><a href="alexa-skills-development.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/alexa-skills-development.svg" alt="alexa skills development">Alexa Skills Development</a></li>
  </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="artificial-intelligence-and-machine-learning/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="artificial-intelligence-and-machine-learning/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1991,10 +1991,10 @@
 <h4 class="m-0 align-self-center">IoT & Embedded</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="iot-app-development/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
-<li><a href="embedded-software/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
-<li><a href="iot-hardware-prototyping/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
-<li><a href="iot-dashboard-and-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
+<li><a href="iot-app-development/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
+<li><a href="embedded-software/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
+<li><a href="iot-hardware-prototyping/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
+<li><a href="iot-dashboard-and-analytics/"><img class="mr-3" width="23px" height="23px" src="/frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -2014,7 +2014,7 @@
 </ul>
  </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="devops/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="devops/" class="ml-3" title="">Read more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -2260,7 +2260,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677799964.jpg" srcset="/uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -2273,7 +2273,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="blog/how-to-create-an-online-laundry-app/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677540725.jpg" srcset="/uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -2286,7 +2286,7 @@
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677116774.jpg" srcset="/uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>
@@ -2312,7 +2312,7 @@
 <p class="desc mb-0">Listen Technology Based Podcast Hosted By Hyperlink InfoSystem.</p>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-7 text-right align-self-center d-none d-sm-none d-md-block">
-<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="podcast/default.htm" class="ml-3" title="">View All <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="podcast/" class="ml-3" title="">View All <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
 </div>
 </div>
 <div class="row mob-row flex-nowrap flex-sm-nowrap flex-md-wrap flex-lg-nowrap flex-xl-wrap mt-3 pb-3 lst-podcast">
@@ -2333,7 +2333,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_0">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/is-blockchain-technology-worth-the-hype/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/is-blockchain-technology-worth-the-hype/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
  </div>
 </div>
 </div>
@@ -2356,7 +2356,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_1">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/iot-technology-a-future-in-making-or-speculating/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/iot-technology-a-future-in-making-or-speculating/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -2379,7 +2379,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_2">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/flutter-vs-react-native/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/flutter-vs-react-native/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -2402,7 +2402,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_3">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/journey-of-hyperlink-infosystem/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/journey-of-hyperlink-infosystem/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>

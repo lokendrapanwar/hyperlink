@@ -356,7 +356,7 @@
 <p class="desc mb-0">Listen Technology Based Podcast Hosted By Hyperlink InfoSystem.</p>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-7 text-right align-self-center d-none d-sm-none d-md-block">
-<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="podcast/default.htm" class="ml-3" title="">View All <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="podcast/" class="ml-3" title="">View All <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
 </div>
 </div>
 <div class="row mob-row flex-nowrap flex-sm-nowrap flex-md-wrap flex-lg-nowrap flex-xl-wrap mt-3 pb-3 lst-podcast">
@@ -377,7 +377,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_0">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/is-blockchain-technology-worth-the-hype/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/is-blockchain-technology-worth-the-hype/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -400,7 +400,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_1">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/iot-technology-a-future-in-making-or-speculating/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/iot-technology-a-future-in-making-or-speculating/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -423,7 +423,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_2">
-<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/flutter-vs-react-native/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/flutter-vs-react-native/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -446,7 +446,7 @@
 </audio>
 </div>
 <div class="align-self-center" id="learn_more_3">
- <label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/journey-of-hyperlink-infosystem/default.htm" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+ <label class="mb-0 d-flex align-items-center read-more-btn"><a href="podcast/journey-of-hyperlink-infosystem/" class="ml-3" title="">Learn more <img class="ml-3" src="/frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>

@@ -11,7 +11,7 @@
 <div class="col-12 col-md-12 col-lg-12 text-right mb-3">
 <nav aria-label="breadcrumb">
 <ol class="breadcrumb d-inline-flex">
-<li class="breadcrumb-item"><a href="../default.htm" class="c-blue">Home</a></li>
+<li class="breadcrumb-item"><a href="../" class="c-blue">Home</a></li>
 <li class="breadcrumb-item active text-capitalize" aria-current="page">podcast</li>
 </ol>
 </nav>
@@ -28,7 +28,7 @@
 <h2 class="title mb-4">Why Your Business Needs a Website?</h2>
 <p class="desc">
 The COVID-19 pandemic has changed the world completely. It has completely overcome the limitations of traditional business norms. In the pre-covid world, it was okay to follow the traditional busin ...</p>
-<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="why-your-business-needs-a-website/default.htm" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="why-your-business-needs-a-website/" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 <div class="col-12 col-md-10 col-lg-5 col-lg-7 order-0 order-md-0 order-lg-1">
@@ -83,7 +83,7 @@ The COVID-19 pandemic has changed the world completely. It has completely overco
 <h2 class="title mb-4">Is BlockChain Technology Worth The Hype?</h2>
 <p class="desc">
 Blockchain and Crypto are the talks of the town topic and emerging trend which is making a lot of buzz in the market. Blockchain is a system of recording information in a way that secures it from g ...</p>
-<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="is-blockchain-technology-worth-the-hype/default.htm" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="is-blockchain-technology-worth-the-hype/" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -94,7 +94,7 @@ Blockchain and Crypto are the talks of the town topic and emerging trend which i
 <h2 class="title mb-4">IoT Technology - A Future In Making OR Speculating?</h2>
 <p class="desc">
 IoT is the emerging technology that is embedded with sensors, software, and communication modules. It helps a network of objects or devices connect through the internet. With IoT, communicating wit ...</p>
-<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="iot-technology-a-future-in-making-or-speculating/default.htm" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="iot-technology-a-future-in-making-or-speculating/" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 <div class="col-12 col-md-10 col-lg-5 col-lg-7 order-0 order-md-0 order-lg-1">
@@ -149,7 +149,7 @@ IoT is the emerging technology that is embedded with sensors, software, and comm
 <h2 class="title mb-4">Application Development Reshaping The World</h2>
 <p class="desc">
 Mobile apps are game-changers that have changed human lives completely in every way. The podcast is all about how mobile apps have evolved and reshaped our lives. It takes a lot to develop a mobile ...</p>
-<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="application-development-reshaping-the-world/default.htm" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="application-development-reshaping-the-world/" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -160,7 +160,7 @@ Mobile apps are game-changers that have changed human lives completely in every 
 <h2 class="title mb-4">Flutter Vs. React Native - Which One To Choose For Your Future App Needs?</h2>
 <p class="desc">
 Flutter v/s React Native is an all time debatable question. In this podcast, Hyperlink InfoSystem clears the concept and highlights the points for everyone who is confused about which one to choose ...</p>
-<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="flutter-vs-react-native/default.htm" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="flutter-vs-react-native/" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 <div class="col-12 col-md-10 col-lg-5 col-lg-7 order-0 order-md-0 order-lg-1">
@@ -215,7 +215,7 @@ Flutter v/s React Native is an all time debatable question. In this podcast, Hyp
 <h2 class="title mb-4">Journey of Hyperlink InfoSystem - A Top Mobile App Development Company</h2>
 <p class="desc">
 Hyperlink InfoSystem is a leading mobile and web application company in the USA and India. The company&#39;s journey is commendable; from being a quintessential startup to no one mobile and web app ...</p>
-<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="journey-of-hyperlink-infosystem/default.htm" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
+<label class="mb-0 d-flex justify-content-center align-items-center read-more-btn mt-4 mt-lg-5"><a href="journey-of-hyperlink-infosystem/" class="ml-3 c-white" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt=""></a></label>
 </div>
 </div>
 </div>
@@ -234,7 +234,7 @@ Hyperlink InfoSystem is a leading mobile and web application company in the USA 
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677799964.jpg" srcset="..//uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -247,7 +247,7 @@ Hyperlink InfoSystem is a leading mobile and web application company in the USA 
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/">
  <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677540725.jpg" srcset="..//uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -260,7 +260,7 @@ Hyperlink InfoSystem is a leading mobile and web application company in the USA 
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677116774.jpg" srcset="..//uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>

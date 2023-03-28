@@ -11,7 +11,7 @@
 <div class="col-12 col-md-12 col-lg-12 text-right mb-5">
 <nav aria-label="breadcrumb">
 <ol class="breadcrumb d-inline-flex">
-<li class="breadcrumb-item"><a href="../default.htm" class="c-blue">Home</a></li>
+<li class="breadcrumb-item"><a href="../" class="c-blue">Home</a></li>
 <li class="breadcrumb-item active" aria-current="page"><a href="../services" class="c-blue">Services</a></li>
 </ol>
 </nav>
@@ -296,7 +296,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4">
 <div class="game-img-box position-relative m-2 m-md-0 m-lg-2">
-<a class="d-flex" href="../case-study/ludo-classic-board-game-app/default.htm">
+<a class="d-flex" href="../case-study/ludo-classic-board-game-app/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game11.jpg" alt="ludo game">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -307,7 +307,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4">
 <div class="game-img-box position-relative m-2 m-md-0 m-lg-2">
-<a href="../case-study/rummy-card-game-development/default.htm">
+<a href="../case-study/rummy-card-game-development/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game22.jpg" alt="rummy game">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile</span>
@@ -318,7 +318,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../case-study/zombie-abomination-vr-shooting-game/default.htm">
+<a href="../case-study/zombie-abomination-vr-shooting-game/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game33.jpg" alt="zombie abomination">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -329,7 +329,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../case-study/poker-online-casino-game/default.htm">
+<a href="../case-study/poker-online-casino-game/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game55.jpg" alt="poker online casino game">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -340,7 +340,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/austria-map-puzzle/default.htm">
+<a href="../our-portfolio/austria-map-puzzle/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game44.jpg" alt="austria map puzzle">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -351,7 +351,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4">
 <div class="game-img-box position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/alien-shooter-ar/default.htm">
+<a href="../our-portfolio/alien-shooter-ar/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game66.jpg" alt="alien shooter">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile</span>
@@ -362,7 +362,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4">
 <div class="game-img-box position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/thunder-bike-racing/default.htm">
+<a href="../our-portfolio/thunder-bike-racing/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game77.jpg" alt="thunder bike racing">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -373,7 +373,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/new-senso/default.htm">
+<a href="../our-portfolio/new-senso/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game100.jpg" alt="new senso puzzle">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -384,7 +384,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/switzerland-map/default.htm">
+<a href="../our-portfolio/switzerland-map/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game88.jpg" alt="switzerland map puzzle">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -395,7 +395,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/fantasy-death-racer/default.htm">
+<a href="../our-portfolio/fantasy-death-racer/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game999.jpg" alt="fantasy death racer">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -406,7 +406,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4">
 <div class="game-img-box position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/pool-table/default.htm">
+<a href="../our-portfolio/pool-table/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game112.jpg" alt="pool table">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile</span>
@@ -417,7 +417,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-4">
 <div class="game-img-box position-relative m-2 m-md-0 m-lg-2">
-<a href="../case-study/virtuhunt-augmented-reality-hunting-game/default.htm">
+<a href="../case-study/virtuhunt-augmented-reality-hunting-game/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game111.jpg" alt="virtuHunt hunting">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -428,7 +428,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/flappy-yourself/default.htm">
+<a href="../our-portfolio/flappy-yourself/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game113.jpg" alt="flappy yourself">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -439,7 +439,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/usa-map-puzzle/default.htm">
+<a href="../our-portfolio/usa-map-puzzle/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game115.jpg" alt="usa map puzzle">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -450,7 +450,7 @@
 </div>
 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 mb-4">
 <div class="game-img-box-small position-relative m-2 m-md-0 m-lg-2">
-<a href="../our-portfolio/puzzmory/default.htm">
+<a href="../our-portfolio/puzzmory/">
 <img class="img-fluid" src="../frontend_assets/img/game-development/game114.jpg" alt="Puzzmory">
 <div class="game-content position-absolute">
 <span class="game-type text-uppercase c-white">Mobile, Tablet</span>
@@ -629,7 +629,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../ecommerce-development/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../ecommerce-development/" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -645,7 +645,7 @@
 <li><a href="../hyperledger-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/hyperledger.svg" alt="hyperledger">Hyperledger</a></li>
 <li><a href="../smart-contracts-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/smart-contract.svg" alt="smart contract">Smart Contracts</a></li>
 <li><a href="../private-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/private-blockchain.svg" alt="private blockchain">Private Blockchains</a></li>
-<li><a href="../nft-marketplace-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
+<li><a href="../nft-marketplace-development-company/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -665,7 +665,7 @@
 <li><a href="../augmented-reality-app-development-company.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/augmented-reality.svg" alt="augmented reality">Augmented Reality</a></li>
 <li><a href="../virtual-reality-mobile-game-application-development-company-oculus-vr.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/virtual-reality-v2.svg" alt="virtual reality">Virtual Reality</a></li>
 <li><a href="../casual-game-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/casual-games.svg" alt="casual games">Casual Games</a></li>
-<li><a href="../metaverse-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
+<li><a href="../metaverse-development-company/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -699,16 +699,16 @@
 <h4 class="m-0 align-self-center">AI & ML</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="../text-to-speech/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
-<li><a href="../business-intelligence/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
-<li><a href="../data-forecasting/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/data-forecasting-new.svg" alt="data forecasting">Data Forecasting</a></li>
-<li><a href="../natural-language-processing/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
-<li><a href="../data-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
+<li><a href="../text-to-speech/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
+<li><a href="../business-intelligence/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
+<li><a href="../data-forecasting/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/data-forecasting-new.svg" alt="data forecasting">Data Forecasting</a></li>
+<li><a href="../natural-language-processing/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
+<li><a href="../data-analytics/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
 <li><a href="../alexa-skills-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/alexa-skills-development.svg" alt="alexa skills development">Alexa Skills Development</a></li>
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../artificial-intelligence-and-machine-learning/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../artificial-intelligence-and-machine-learning/" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -720,10 +720,10 @@
 <h4 class="m-0 align-self-center">IoT & Embedded</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="../iot-app-development/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
-<li><a href="../embedded-software/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
-<li><a href="../iot-hardware-prototyping/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
-<li><a href="../iot-dashboard-and-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
+<li><a href="../iot-app-development/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
+<li><a href="../embedded-software/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
+<li><a href="../iot-hardware-prototyping/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
+<li><a href="../iot-dashboard-and-analytics/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -743,7 +743,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../devops/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../devops/" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -817,7 +817,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../ecommerce-development/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../ecommerce-development/" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
  </div>
 </div>
 </div>
@@ -833,7 +833,7 @@
 <li><a href="../hyperledger-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/hyperledger.svg" alt="hyperledger">Hyperledger</a></li>
 <li><a href="../smart-contracts-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/smart-contract.svg" alt="smart contract">Smart Contracts</a></li>
 <li><a href="../private-blockchain-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/private-blockchain.svg" alt="private blockchain">Private Blockchains</a></li>
-<li><a href="../nft-marketplace-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
+<li><a href="../nft-marketplace-development-company/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/nft-marketplace.svg" alt="nft marketplace">NFT Marketplace</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -853,7 +853,7 @@
 <li><a href="../augmented-reality-app-development-company.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/augmented-reality.svg" alt="augmented reality">Augmented Reality</a></li>
 <li><a href="../virtual-reality-mobile-game-application-development-company-oculus-vr.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/virtual-reality-v2.svg" alt="virtual reality">Virtual Reality</a></li>
 <li><a href="../casual-game-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/casual-games.svg" alt="casual games">Casual Games</a></li>
-<li><a href="../metaverse-development-company/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
+<li><a href="../metaverse-development-company/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/metaverse-new.svg" alt="metaverse">Metaverse</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -887,16 +887,16 @@
 <h4 class="m-0 align-self-center">AI & ML</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="../text-to-speech/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
-<li><a href="../business-intelligence/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
-<li><a href="../data-forecasting/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/business-intelligence.svg" alt="data forecasting">Data Forecasting</a></li>
-<li><a href="../natural-language-processing/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
-<li><a href="../data-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
+<li><a href="../text-to-speech/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/text-to-speech.svg" alt="text-to-speech">Text To Speech</a></li>
+<li><a href="../business-intelligence/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/business-intelligence.svg" alt="business intelligence">Business Intelligence</a></li>
+<li><a href="../data-forecasting/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/business-intelligence.svg" alt="data forecasting">Data Forecasting</a></li>
+<li><a href="../natural-language-processing/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/natural-language-processing.svg" alt="natural language processing">Natural Language Processing</a></li>
+<li><a href="../data-analytics/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/data-analytics.svg" alt="data analytics">Data Analytics</a></li>
 <li><a href="../alexa-skills-development.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/alexa-skills-development.svg" alt="alexa skills development">Alexa Skills Development</a></li>
 </ul>
  </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../artificial-intelligence-and-machine-learning/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../artificial-intelligence-and-machine-learning/" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -908,10 +908,10 @@
 <h4 class="m-0 align-self-center">IoT & Embedded</h4>
 </div>
 <ul class="list-unstyled mt-30">
-<li><a href="../iot-app-development/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
-<li><a href="../embedded-software/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
-<li><a href="../iot-hardware-prototyping/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
-<li><a href="../iot-dashboard-and-analytics/default.htm"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
+<li><a href="../iot-app-development/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-apps.svg" alt="iot apps">IoT Apps</a></li>
+<li><a href="../embedded-software/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/embedded-software.svg" alt="embedded software">Embedded Software</a></li>
+<li><a href="../iot-hardware-prototyping/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-hardware-prototyping.svg" alt="iot hardware prototyping">IoT Hardware Prototyping</a></li>
+<li><a href="../iot-dashboard-and-analytics/"><img class="mr-3" width="23px" height="23px" src="../frontend_assets/img/services-we-offer/iot-dashboard-and-analytics.svg" alt="iot dashboard and data analytics">IoT Dashboard and Analytics</a></li>
 </ul>
 </div>
 <div class="pt-1">
@@ -931,7 +931,7 @@
 </ul>
 </div>
 <div class="pt-1">
-<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../devops/default.htm" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
+<label class="mb-0 d-inline-flex align-items-center read-more-btn mt-4 mt-md-2 mt-lg-4"><a href="../devops/" class="ml-3" title="">Read more <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="right arrow"></a></label>
 </div>
 </div>
 </div>
@@ -1198,12 +1198,12 @@
 <p class="desc mb-0">We shed a light on our work and what goes behind the development.</p>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-7 text-right align-self-center d-none d-sm-none d-md-block">
-<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="../case-study/default.htm" class="ml-3 c-white" style="color: #fff !important">View All <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="../case-study/" class="ml-3 c-white" style="color: #fff !important">View All <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
 </div>
 </div>
 <div class="row d-none d-sm-none d-md-none d-lg-flex d-xl-flex">
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
-<a href="../case-study/papa-johns-on-demand-food-delivery-app/default.htm">
+<a href="../case-study/papa-johns-on-demand-food-delivery-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/delviy/case-study-delviy.jpg" alt="pizza delivery app">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1218,7 +1218,7 @@
 </a>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
-<a href="../case-study/resiwood-winners-circle-loyalty-program-app/default.htm">
+<a href="../case-study/resiwood-winners-circle-loyalty-program-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/astral-adhesives/resiwood-winners-circle-loyalty-program-app.png" alt="astral adhesives">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1234,7 +1234,7 @@
 </a>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
-<a href="../case-study/art-of-living-a-meditation-app/default.htm">
+<a href="../case-study/art-of-living-a-meditation-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/aol/art-of-living.jpg" alt="art of living">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1250,7 +1250,7 @@
 </a>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
-<a href="../case-study/tata-power-skill-development-institute/default.htm">
+<a href="../case-study/tata-power-skill-development-institute/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/tata/tata-power-skill-development-institute.png" alt="tata power">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1265,7 +1265,7 @@
 </a>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
-<a href="../case-study/vocal-coach-online-vocal-exercise-app/default.htm">
+<a href="../case-study/vocal-coach-online-vocal-exercise-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/vocalcoach/vocal-coach-online-vocal-exercise-app.jpg" alt="vocal coach">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1280,7 +1280,7 @@
 </a>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mt-3">
-<a href="../case-study/digital-banking-solution/default.htm">
+<a href="../case-study/digital-banking-solution/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/digitalbank/case-study-inclu.jpg" alt="digital banking solution">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1299,7 +1299,7 @@
 <div class="swiper-container case-studies-mob mt-3 w-100">
 <div class="swiper-wrapper">
 <div class="swiper-slide">
-<a href="../case-study/papa-johns-on-demand-food-delivery-app/default.htm">
+<a href="../case-study/papa-johns-on-demand-food-delivery-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/delviy/case-study-delviy.jpg" alt="pizza delivery app">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1314,7 +1314,7 @@
 </a>
 </div>
   <div class="swiper-slide">
-<a href="../case-study/resiwood-winners-circle-loyalty-program-app/default.htm">
+<a href="../case-study/resiwood-winners-circle-loyalty-program-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/astral-adhesives/resiwood-winners-circle-loyalty-program-app.png" alt="astral adhesives">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1330,7 +1330,7 @@
 </a>
 </div>
 <div class="swiper-slide">
-<a href="../case-study/art-of-living-a-meditation-app/default.htm">
+<a href="../case-study/art-of-living-a-meditation-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/aol/art-of-living.jpg" alt="art of living">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1346,7 +1346,7 @@
 </a>
 </div>
 <div class="swiper-slide">
-<a href="../case-study/tata-power-skill-development-institute/default.htm">
+<a href="../case-study/tata-power-skill-development-institute/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/tata/tata-power-skill-development-institute.png" alt="tata power">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1361,7 +1361,7 @@
 </a>
 </div>
 <div class="swiper-slide">
-<a href="../case-study/vocal-coach-online-vocal-exercise-app/default.htm">
+<a href="../case-study/vocal-coach-online-vocal-exercise-app/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/vocalcoach/vocal-coach-online-vocal-exercise-app.jpg" alt="vocal coach">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1376,7 +1376,7 @@
 </a>
 </div>
 <div class="swiper-slide">
-<a href="../case-study/digital-banking-solution/default.htm">
+<a href="../case-study/digital-banking-solution/">
 <div class="d-flex flex-column position-relative mb-0">
 <img class="img-fluid" src="../assets/case-study/digitalbank/case-study-inclu.jpg" alt="digital banking solution">
 <div class="card-box px-3 py-4 text-center d-flex flex-column justify-content-center">
@@ -1644,7 +1644,7 @@ concerns. They delivered a high-quality game that surpassed all expectations; it
 <p class="desc mb-0">Listen Technology Based Podcast Hosted By Hyperlink InfoSystem.</p>
 </div>
 <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-7 text-right align-self-center d-none d-sm-none d-md-block">
-<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="../podcast/default.htm" class="ml-3" title="">View All <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
+<label class="mb-0 d-flex align-items-center read-more-btn float-right"><a href="../podcast/" class="ml-3" title="">View All <img class="ml-3" src="../frontend_assets/img/arrow-right-white.svg" alt="arrow right"></a></label>
 </div>
 </div>
 <div class="row mob-row flex-nowrap flex-sm-nowrap flex-md-wrap flex-lg-nowrap flex-xl-wrap mt-3 pb-3 lst-podcast">
@@ -1757,7 +1757,7 @@ concerns. They delivered a high-quality game that surpassed all expectations; it
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677799964.jpg" srcset="..//uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -1770,7 +1770,7 @@ concerns. They delivered a high-quality game that surpassed all expectations; it
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="../blog/how-to-create-an-online-laundry-app/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677540725.jpg" srcset="..//uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -1783,7 +1783,7 @@ concerns. They delivered a high-quality game that surpassed all expectations; it
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="../blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="..//uploads/blog/1677116774.jpg" srcset="..//uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>

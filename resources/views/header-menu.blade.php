@@ -273,7 +273,7 @@
                                                                     href="/cryptocurrency-wallet-development">Wallet</a>
                                                             </div>
                                                             <div class="mb-2"><a
-                                                                    href="/cryptocurrency-exchange-development/default">Exchange</a>
+                                                                    href="/cryptocurrency-exchange-development/">Exchange</a>
                                                             </div>
                                                             <div class="mb-2"><a
                                                                     href="/ethereum-app-development">Ethereum</a></div>
@@ -753,7 +753,7 @@
                                         <a href="javascript:void(0);">Ecommerce Development</a>
                                         <ul class="is-hidden">
                                             <li class="go-back"><a href="javascript:void(0);">Back</a></li>
-                                            <li><a href="ecommerce-development/default"><b>Ecommerce Development</b></a>
+                                            <li><a href="ecommerce-development/"><b>Ecommerce Development</b></a>
                                             </li>
                                             <li><a href="magento-development">Magento</a></li>
                                             <li><a href="bigcommerce">Bigcommerce</a> </li>
@@ -761,8 +761,8 @@
                                             <li><a href="cs-cart-development">CSCart</a></li>
                                             <li><a href="prestashop">Prestashop</a></li>
                                             <li><a href="virtuemart-development">Virtuemart</a></li>
-                                            <li><a href="shopify-development/default">Shopify</a></li>
-                                            <li><a href="woocommerce-development/default">WooCommerce</a></li>
+                                            <li><a href="shopify-development/">Shopify</a></li>
+                                            <li><a href="woocommerce-development/">WooCommerce</a></li>
                                         </ul>
                                     </li>
                                     <li class="has-children p-0 p-md-0 p-lg-0 p-xl-4">
@@ -770,13 +770,13 @@
                                         <ul class="is-hidden">
                                             <li class="go-back"><a href="javascript:void(0);">Back</a></li>
                                             <li><a href="blockchain-development"><b>Blockchain Development</b></a></li>
-                                            <li><a href="cryptocurrency-wallet-development/default">Wallet</a></li>
-                                            <li><a href="cryptocurrency-exchange-development/default">Exchange</a></li>
+                                            <li><a href="cryptocurrency-wallet-development/">Wallet</a></li>
+                                            <li><a href="cryptocurrency-exchange-development/">Exchange</a></li>
                                             <li><a href="ethereum-app-development">Ethereum</a></li>
                                             <li><a href="hyperledger-blockchain-development">Hyperledger</a></li>
                                             <li><a href="smart-contracts-development">Smart Contracts</a></li>
                                             <li><a href="private-blockchain-development">Private Blockchain</a></li>
-                                            <li><a href="nft-marketplace-development-company/default">NFT Marketplace
+                                            <li><a href="nft-marketplace-development-company/">NFT Marketplace
                                                     <img class="ml-1" width="20px" height="20px"
                                                         src="/frontend_assets/img/services-we-offer/new-icon.svg"
                                                         alt="new"></a></li>
@@ -786,15 +786,15 @@
                                         <a href="javascript:void(0);">Game Development</a>
                                         <ul class="is-hidden">
                                             <li class="go-back"><a href="javascript:void(0);">Back</a></li>
-                                            <li><a href="game-development-company/default"><b>Game Development</b></a>
+                                            <li><a href="game-development-company/"><b>Game Development</b></a>
                                             </li>
                                             <li><a href="unity3d-game-development">Unity 3D</a></li>
-                                            <li><a href="metaverse-development-company/default">Metaverse <img
+                                            <li><a href="metaverse-development-company/">Metaverse <img
                                                         class="ml-1" width="20px" height="20px"
                                                         src="/frontend_assets/img/services-we-offer/new-icon.svg"
                                                         alt="new"></a>
                                             </li>
-                                            <li><a href="unreal-engine-game-development/default">Unreal Engine</a></li>
+                                            <li><a href="unreal-engine-game-development/">Unreal Engine</a></li>
                                             <li><a href="augmented-reality-app-development-company">Augmented
                                                     Reality</a></li>
                                             <li><a
@@ -816,17 +816,17 @@
                                         <a href="javascript:void(0);">AI & ML</a>
                                         <ul class="is-hidden">
                                             <li class="go-back"><a href="javascript:void(0);">Back</a></li>
-                                            <li><a href="artificial-intelligence-and-machine-learning/default"><b>AI &
+                                            <li><a href="artificial-intelligence-and-machine-learning/"><b>AI &
                                                         ML</b></a></li>
-                                            <li><a href="object-recognition/default">Object Recognition</a></li>
-                                            <li><a href="text-to-speech/default">Text To Speech</a></li>
-                                            <li><a href="business-intelligence/default">Business Intelligence</a></li>
-                                            <li><a href="data-forecasting/default">Data Forecasting</a></li>
-                                            <li><a href="natural-language-processing/default">Natural Language
+                                            <li><a href="object-recognition/">Object Recognition</a></li>
+                                            <li><a href="text-to-speech/">Text To Speech</a></li>
+                                            <li><a href="business-intelligence/">Business Intelligence</a></li>
+                                            <li><a href="data-forecasting/">Data Forecasting</a></li>
+                                            <li><a href="natural-language-processing/">Natural Language
                                                     Processing</a></li>
-                                            <li><a href="data-analytics/default">Data Analytics</a></li>
-                                            <li><a href="recommendation-engine/default">Recommendation Engine</a></li>
-                                            <li><a href="sentimental-analysis/default">Sentimental Analysis</a></li>
+                                            <li><a href="data-analytics/">Data Analytics</a></li>
+                                            <li><a href="recommendation-engine/">Recommendation Engine</a></li>
+                                            <li><a href="sentimental-analysis/">Sentimental Analysis</a></li>
                                             <li><a href="alexa-skills-development">Alexa Skills Development</a></li>
                                         </ul>
                                     </li>
@@ -835,18 +835,18 @@
                                         <ul class="is-hidden">
                                             <li class="go-back"><a href="javascript:void(0);">Back</a></li>
                                             <li><a href="iot-development"><b>IoT & Embedded</b></a></li>
-                                            <li><a href="iot-app-development/default">IoT App</a></li>
-                                            <li><a href="embedded-software/default">Embedded Software</a></li>
-                                            <li><a href="iot-hardware-prototyping/default">IoT Hardware Prototyping</a>
+                                            <li><a href="iot-app-development/">IoT App</a></li>
+                                            <li><a href="embedded-software/">Embedded Software</a></li>
+                                            <li><a href="iot-hardware-prototyping/">IoT Hardware Prototyping</a>
                                             </li>
-                                            <li><a href="iot-dashboard-and-analytics/default">IoT Dashboard and
+                                            <li><a href="iot-dashboard-and-analytics/">IoT Dashboard and
                                                     Analytics</a></li>
-                                            <li><a href="smart-home-home-automation/default">Smart Home - Home
+                                            <li><a href="smart-home-home-automation/">Smart Home - Home
                                                     Automation</a></li>
                                         </ul>
                                     </li>
                                     <li class="p-0 p-md-0 p-lg-0 p-xl-4">
-                                        <a href="devops/default">DevOps</a>
+                                        <a href="devops/">DevOps</a>
                                     </li>
                                 </ul>
                             </li>
@@ -861,50 +861,50 @@
                                             <a href="/hire-dedicated-developers-india"><b>Hire Dedicated
                                                     Developers</b></a>
                                             <a href="/app-developers-for-hire">App Developers</a>
-                                            <a href="/hire-web-developers/default">Web Developers</a>
-                                            <a href="/hire-software-developers/default">Software Developers</a>
-                                            <a href="/hire-full-stack-developer/default">Full-stack Developers</a>
-                                            <a href="/hire-front-end-developers/default">Frontend Developers</a>
-                                            <a href="/hire-backend-developers/default">Backend Developers</a>
-                                            <a href="/hire-ui-ux-designer/default">UI/UX Designers</a>
-                                            <a href="/hire-iot-solution-architect/default">IoT Solution Architect</a>
-                                            <a href="/hire-data-scientist/default">Data Scientist</a>
+                                            <a href="/hire-web-developers/">Web Developers</a>
+                                            <a href="/hire-software-developers/">Software Developers</a>
+                                            <a href="/hire-full-stack-developer/">Full-stack Developers</a>
+                                            <a href="/hire-front-end-developers/">Frontend Developers</a>
+                                            <a href="/hire-backend-developers/">Backend Developers</a>
+                                            <a href="/hire-ui-ux-designer/">UI/UX Designers</a>
+                                            <a href="/hire-iot-solution-architect/">IoT Solution Architect</a>
+                                            <a href="/hire-data-scientist/">Data Scientist</a>
                                             <a href="/hire-salesforce-developers">Salesforce Developers</a>
                                             <a href="/hire-blockchain-developers">Blockchain Developers</a>
                                             <a href="/hire-android-app-developer">Android Developers</a>
-                                            <a href="/hire-ios-developers/default">iOS Developers</a>
+                                            <a href="/hire-ios-developers/">iOS Developers</a>
                                             <a href="/hire-iphone-app-developer">iPhone Developers</a>
-                                            <a href="/hire-flutter-developers/default">Flutter Developers</a>
+                                            <a href="/hire-flutter-developers/">Flutter Developers</a>
                                             <a href="/hire-react-native-app-developers">React Native Developers</a>
-                                            <a href="/hire-swift-developer/default">Swift Developers</a>
-                                            <a href="/hire-ionic-developer/default">Ionic Developers</a>
+                                            <a href="/hire-swift-developer/">Swift Developers</a>
+                                            <a href="/hire-ionic-developer/">Ionic Developers</a>
                                             <a href="/hire-kotlin-developers">Kotlin Developers</a>
-                                            <a href="/hire-java-developers/default">Java Developers</a>
-                                            <a href="/hire-angularjs-developers/default">AngularJS Developers</a>
-                                            <a href="/hire-reactjs-developers/default">ReactJS Developers</a>
-                                            <a href="/hire-nodejs-developers/default">NodeJS Developers</a>
-                                            <a href="/hire-vuejs-developers/default">VueJS Developers</a>
+                                            <a href="/hire-java-developers/">Java Developers</a>
+                                            <a href="/hire-angularjs-developers/">AngularJS Developers</a>
+                                            <a href="/hire-reactjs-developers/">ReactJS Developers</a>
+                                            <a href="/hire-nodejs-developers/">NodeJS Developers</a>
+                                            <a href="/hire-vuejs-developers/">VueJS Developers</a>
                                             <a href="/hire-php-developer">PHP Developers</a>
                                             <a href="/hire-wordpress-developer">WordPress Developers</a>
-                                            <a href="/hire-cakephp-developer/default">CakePHP Developers</a>
+                                            <a href="/hire-cakephp-developer/">CakePHP Developers</a>
                                             <a href="/hire-codeigniter-developers">CodeIgniter Developers</a>
                                             <a href="/hire-laravel-developers">Laravel Developers</a>
-                                            <a href="/hire-yii-developers/default">YII Developers</a>
+                                            <a href="/hire-yii-developers/">YII Developers</a>
                                             <a href="/hire-magento-developer">Magento Developers</a>
-                                            <a href="/hire-shopify-developer/default">Shopify Developers</a>
+                                            <a href="/hire-shopify-developer/">Shopify Developers</a>
                                             <a href="/hire-drupal-developer">Drupal Developers</a>
-                                            <a href="/hire-woocommerce-developers/default">WooCommerce Developers</a>
+                                            <a href="/hire-woocommerce-developers/">WooCommerce Developers</a>
                                             <a href="/hire-python-developers">Python Devlopers</a>
-                                            <a href="/hire-golang-developers/default">Golang Developers</a>
-                                            <a href="/hire-solidity-developer/default">Solidity Developers</a>
-                                            <a href="/hire-dart-developer/default">Dart Developers</a>
-                                            <a href="/hire-spring-boot-developers/default">Spring Boot Developers</a>
-                                            <a href="/hire-django-developer/default">Django Developers</a>
+                                            <a href="/hire-golang-developers/">Golang Developers</a>
+                                            <a href="/hire-solidity-developer/">Solidity Developers</a>
+                                            <a href="/hire-dart-developer/">Dart Developers</a>
+                                            <a href="/hire-spring-boot-developers/">Spring Boot Developers</a>
+                                            <a href="/hire-django-developer/">Django Developers</a>
                                         </div>
                                     </li>
                                 </ul>
                             </li>
-                            <li class="d-xl-none"><a href="case-study/default">Case Study</a></li>
+                            <li class="d-xl-none"><a href="case-study/">Case Study</a></li>
                             <li class="has-children d-xl-none">
                                 <a href="javascript:void(0);">Resources</a>
                                 <ul class="cd-secondary-nav container-fluid is-hidden pr-0 border-left border-bottom">
@@ -920,9 +920,9 @@
                                             Release</a>
                                         <a class="mb-0 mb-md-0 mb-xl-2 anch-link" href="/technewsl">Tech News</a>
                                         <a class="mb-0 mb-md-0 mb-xl-2 anch-link" href="/whitepaperl">Whitepaper</a>
-                                        <a class="anch-link" href="/podcast/default">Podcast</a>
-                                        <a class="anch-link" href="/portfolio/default">Portfolio</a>
-                                        <a class="anch-link" href="/download-brochure/default">Download-Brochure</a>
+                                        <a class="anch-link" href="/podcast/">Podcast</a>
+                                        <a class="anch-link" href="/portfolio/">Portfolio</a>
+                                        <a class="anch-link" href="/download-brochure/">Download-Brochure</a>
                                     </li>
                                 </ul>
                             </li>

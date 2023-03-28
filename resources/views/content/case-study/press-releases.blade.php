@@ -30,7 +30,7 @@
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1661129676.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/hyperlink-infosystem-announces-its-participation-in-gitex-global-2022-a-largest-tech-expo-in-the-middle-east/default.htm"><h2 class="title my-2">Hyperlink InfoSystem Announces Its Participation in GITEX Global 2022 - A Largest Tech Expo in the Middle East...</h2></a>
+<a href="press-releases/hyperlink-infosystem-announces-its-participation-in-gitex-global-2022-a-largest-tech-expo-in-the-middle-east/"><h2 class="title my-2">Hyperlink InfoSystem Announces Its Participation in GITEX Global 2022 - A Largest Tech Expo in the Middle East...</h2></a>
 <small class="read text-capitalize">22 / 08 / 2022</small>
 <p class="desc mt-2 mb-3">
 NEW YORK and DUBAI, UAE, August 22, 2022 - One of the most significant technology events: GITEX Global 2022 ...</p>
@@ -46,7 +46,7 @@ NEW YORK and DUBAI, UAE, August 22, 2022 - One of the most significant technolog
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1640893161.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/indias-biggest-it-company-hyperlink-infosystem-to-participate-in-ces-2022-at-las-vegas-nv/default.htm"><h2 class="title my-2">India's Biggest IT Company, Hyperlink InfoSystem To Particip...</h2></a>
+<a href="press-releases/indias-biggest-it-company-hyperlink-infosystem-to-participate-in-ces-2022-at-las-vegas-nv/"><h2 class="title my-2">India's Biggest IT Company, Hyperlink InfoSystem To Particip...</h2></a>
 <small class="read text-capitalize">30 / 12 / 2021</small>
 <p class="desc mt-2 mb-3">
 NEW YORK and LOS ANGELES and LAS VEGAS, December 30, 2021 - CES is back ...</p>
@@ -62,7 +62,7 @@ NEW YORK and LOS ANGELES and LAS VEGAS, December 30, 2021 - CES is back ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1640893550.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/hyperlink-infosystem-announces-participation-in-ces-2022-a-biggest-consumer-technology-show-at-las-vegas-nv/default.htm"><h2 class="title my-2">Hyperlink InfoSystem Announces Participation in CES 2022 a B...</h2></a>
+<a href="press-releases/hyperlink-infosystem-announces-participation-in-ces-2022-a-biggest-consumer-technology-show-at-las-vegas-nv/"><h2 class="title my-2">Hyperlink InfoSystem Announces Participation in CES 2022 a B...</h2></a>
 <small class="read text-capitalize">24 / 11 / 2021</small>
 <p class="desc mt-2 mb-3">
 NEW YORK and LOS ANGELES, November 24, 2021 ...</p>
@@ -78,7 +78,7 @@ NEW YORK and LOS ANGELES, November 24, 2021 ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1622427072.png" alt="press release">
 <div class="p-3">
-<a href="press-releases/hyperlink-infosystem-has-developed-an-innovative-solution-for-zydus-cadila-to-safeguard-patients-against-fake-medicines/default.htm"><h2 class="title my-2">Hyperlink InfoSystem Has Developed An Innovative Solution Fo...</h2></a>
+<a href="press-releases/hyperlink-infosystem-has-developed-an-innovative-solution-for-zydus-cadila-to-safeguard-patients-against-fake-medicines/"><h2 class="title my-2">Hyperlink InfoSystem Has Developed An Innovative Solution Fo...</h2></a>
 <small class="read text-capitalize">31 / 05 / 2021</small>
 <p class="desc mt-2 mb-3">
 New York, and Mumbai, May 31, 2021 - In the ...</p>
@@ -94,7 +94,7 @@ New York, and Mumbai, May 31, 2021 - In the ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1605825304.png" alt="press release">
 <div class="p-3">
-<a href="press-releases/hyperlink-infosystem-announces-vaccine-management-system-with-cloud-based-solution-built-on-salesforce/default.htm"><h2 class="title my-2">Hyperlink InfoSystem Announces Vaccine Management System Wit...</h2></a>
+<a href="press-releases/hyperlink-infosystem-announces-vaccine-management-system-with-cloud-based-solution-built-on-salesforce/"><h2 class="title my-2">Hyperlink InfoSystem Announces Vaccine Management System Wit...</h2></a>
 <small class="read text-capitalize">20 / 11 / 2020</small>
 <p class="desc mt-2 mb-3">
 NEW YORK, LONDON, and MUMBAI, India, November 20, 20 ...</p>
@@ -110,7 +110,7 @@ NEW YORK, LONDON, and MUMBAI, India, November 20, 20 ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1585015419.png" alt="press release">
 <div class="p-3">
-<a href="press-releases/hyperlink-infosystem-worlds-popular-app-development-company-to-operate-for-their-clients-remotely-due-to-covid-19/default.htm"><h2 class="title my-2">Hyperlink InfoSystem, World's Popular App Development Compan...</h2></a>
+<a href="press-releases/hyperlink-infosystem-worlds-popular-app-development-company-to-operate-for-their-clients-remotely-due-to-covid-19/"><h2 class="title my-2">Hyperlink InfoSystem, World's Popular App Development Compan...</h2></a>
 <small class="read text-capitalize">24 / 03 / 2020</small>
 <p class="desc mt-2 mb-3">
 NEW YORK and DUBAI, UAE, March 24, 2020 -&n ...</p>
@@ -126,7 +126,7 @@ NEW YORK and DUBAI, UAE, March 24, 2020 -&n ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1582078899.png" alt="press release">
 <div class="p-3">
-<a href="press-releases/interview-of-hyperlink-infosystems-ceo-harnil-oza-in-indias-biggest-magazine-outlook-business/default.htm"><h2 class="title my-2">Interview Of Hyperlink InfoSystem's CEO “Harnil Oza" In In...</h2></a>
+<a href="press-releases/interview-of-hyperlink-infosystems-ceo-harnil-oza-in-indias-biggest-magazine-outlook-business/"><h2 class="title my-2">Interview Of Hyperlink InfoSystem's CEO “Harnil Oza" In In...</h2></a>
 <small class="read text-capitalize">19 / 02 / 2020</small>
 <p class="desc mt-2 mb-3">
 NEW YORK, February 19, 2020 - Many top Medi ...</p>
@@ -142,7 +142,7 @@ NEW YORK, February 19, 2020 - Many top Medi ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1574723586.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/hyperlink-infosystem-top-mobile-app-development-company-to-exhibit-at-ces-2020-las-vegas/default.htm"><h2 class="title my-2">Hyperlink InfoSystem - Top Mobile App Development Company To...</h2></a>
+<a href="press-releases/hyperlink-infosystem-top-mobile-app-development-company-to-exhibit-at-ces-2020-las-vegas/"><h2 class="title my-2">Hyperlink InfoSystem - Top Mobile App Development Company To...</h2></a>
 <small class="read text-capitalize">26 / 11 / 2019</small>
 <p class="desc mt-2 mb-3">
 NEW YORK, November 26, 2019 - CES is one of ...</p>
@@ -158,7 +158,7 @@ NEW YORK, November 26, 2019 - CES is one of ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1569367047.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/top-mobile-app-development-company-hyperlink-infosystem-to-exhibit-latest-technology-solutions-at-39th-gitex-technology-week-2019/default.htm"><h2 class="title my-2">Top Mobile App Development Company - Hyperlink InfoSystem To...</h2></a>
+<a href="press-releases/top-mobile-app-development-company-hyperlink-infosystem-to-exhibit-latest-technology-solutions-at-39th-gitex-technology-week-2019/"><h2 class="title my-2">Top Mobile App Development Company - Hyperlink InfoSystem To...</h2></a>
 <small class="read text-capitalize">25 / 09 / 2019</small>
 <p class="desc mt-2 mb-3">
 NEW YORK, September 25, 2019 - The biggest ...</p>
@@ -174,7 +174,7 @@ NEW YORK, September 25, 2019 - The biggest ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1554859391.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/1-app-developers-hyperlink-infosystem-successfully-developed-delivered-3000-mobile-apps-until-2019/default.htm"><h2 class="title my-2">#1 App Developers Hyperlink InfoSystem Successfully Develope...</h2></a>
+<a href="press-releases/1-app-developers-hyperlink-infosystem-successfully-developed-delivered-3000-mobile-apps-until-2019/"><h2 class="title my-2">#1 App Developers Hyperlink InfoSystem Successfully Develope...</h2></a>
 <small class="read text-capitalize">10 / 04 / 2019</small>
 <p class="desc mt-2 mb-3">
 NEW YORK, April 10, 2019 -&nbsp;Smartphones ...</p>
@@ -190,7 +190,7 @@ NEW YORK, April 10, 2019 -&nbsp;Smartphones ...</p>
 <div class="blog-content-left">
 <img class="img-fluid" src="/uploads/blog/1538184162.jpg" alt="press release">
 <div class="p-3">
-<a href="press-releases/top-mobile-app-development-company-hyperlink-infosystem-is-all-set-to-exhibit-at-gitex-technology-week-2018/default.htm"><h2 class="title my-2">Top Mobile App Development Company - Hyperlink InfoSystem is...</h2></a>
+<a href="press-releases/top-mobile-app-development-company-hyperlink-infosystem-is-all-set-to-exhibit-at-gitex-technology-week-2018/"><h2 class="title my-2">Top Mobile App Development Company - Hyperlink InfoSystem is...</h2></a>
  <small class="read text-capitalize">29 / 09 / 2018</small>
 <p class="desc mt-2 mb-3">
 NEW YORK, September 29, 2018 - GITEX &ndash ...</p>
@@ -207,7 +207,7 @@ NEW YORK, September 29, 2018 - GITEX &ndash ...</p>
 </div>
 <div class="col-12 col-md-5 col-lg-5 text-right">
 <div class="slider-left-right-btn d-flex justify-content-center">
-<ul class="pager"><li class="next"><a href="press-releases/2/default.htm" data-ci-pagination-page="2" rel="next"> Next <img src="/frontend_assets/img/slider-arrow-blue.svg" alt=""> </a></li></ul> </div>
+<ul class="pager"><li class="next"><a href="press-releases/2/" data-ci-pagination-page="2" rel="next"> Next <img src="/frontend_assets/img/slider-arrow-blue.svg" alt=""> </a></li></ul> </div>
 </div>
 </div>
 </div>
@@ -225,7 +225,7 @@ NEW YORK, September 29, 2018 - GITEX &ndash ...</p>
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/how-to-find-and-hire-the-best-unity-3d-developers/default.htm">
+<a class="d-flex flex-column" href="blog/how-to-find-and-hire-the-best-unity-3d-developers/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677799964.jpg" srcset="/uploads/blog/1677799964.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Find and Hire the Best Unity 3D Developers in 2023?</h4>
@@ -238,7 +238,7 @@ NEW YORK, September 29, 2018 - GITEX &ndash ...</p>
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/how-to-create-an-online-laundry-app/default.htm">
+<a class="d-flex flex-column" href="blog/how-to-create-an-online-laundry-app/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677540725.jpg" srcset="/uploads/blog/1677540725.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">How To Create An Online Laundry App In 2023</h4>
@@ -251,7 +251,7 @@ NEW YORK, September 29, 2018 - GITEX &ndash ...</p>
 <div class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
 <div class="d-flex flex-row align-items-stretch mob-box-main">
 <div class="mob-box">
-<a class="d-flex flex-column" href="blog/mobile-game-development-ideas/default.htm">
+<a class="d-flex flex-column" href="blog/mobile-game-development-ideas/">
 <img loading="lazy" class="img-fluid" src="/uploads/blog/1677116774.jpg" srcset="/uploads/blog/1677116774.jpg" alt="latest blog">
 <div class="inner-content">
 <h4 class="mb-3">Top Mobile Game Development Ideas In 2023: Complete Guide</h4>
